@@ -5,13 +5,13 @@ logging.getLogger('stanza').setLevel(logging.WARNING)
 from itertools import zip_longest
 import pandas as pd
 
-
 #считывание текста из файла
 with open ('parse/Чехов.txt', 'r', encoding='utf-8-sig') as f:
     text_one=f.read()
 
 #nltk
-# и т.п. [т.], [п.] (но точки в конце предложения - отдельный токен), слова через дефис - один токен
+# и т.п. [т.], [п.] (но точки в конце предложения - отдельны
+# й токен), слова через дефис - один токен
 from nltk import word_tokenize
 array_nltk=word_tokenize(text_one)
 #print('nltk:', 'количество токенов:', len(array_nltk),array_nltk)
