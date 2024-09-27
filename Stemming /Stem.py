@@ -1,8 +1,14 @@
-from nltk.stem import RegexpStemmer
+from nltk.stem import PorterStemmer, SnowballStemmer, LancasterStemmer, RegexpStemmer
+porter = PorterStemmer()
+lancaster = LancasterStemmer()
+snowball = SnowballStemmer(language='russian')
 regexp = RegexpStemmer('e$|n$|er$|s$|st$|t$|en$|et$|est$|in$|erin$|', min=3)
+
 words = ['Fische','Blumen','Kinder', 'Parks', 'höre', 'badest','arbeitet', 'reisen', 'gefahren', 'Lehrerin', 'Schüler']
+print("{0:20}{1:20}{2:20}{3:30}{4:40}".format("Word","Porter Stemmer","Snowball Stemmer","Lancaster Stemmer",'Regexp Stemmer'))
 for word in words:
-    print(word,"--->",regexp.stem(word))
+    print("{0:20}{1:20}{2:20}{3:30}{4:40}".format(word,porter.stem(word),snowball.stem(word),lancaster.stem(word),regexp.stem(word)))
+
 
 
 
