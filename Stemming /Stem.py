@@ -1,7 +1,7 @@
 from nltk.stem import PorterStemmer, SnowballStemmer, LancasterStemmer, RegexpStemmer
 porter = PorterStemmer()
 lancaster = LancasterStemmer()
-snowball = SnowballStemmer(language='russian')
+snowball = SnowballStemmer(language='german')
 regexp = RegexpStemmer('e$|n$|er$|s$|st$|t$|en$|et$|est$|in$|erin$|', min=3)
 
 words = ['Fische','Blumen','Kinder', 'Parks', 'höre', 'badest','arbeitet', 'reisen', 'gefahren', 'Lehrerin', 'Schüler']
