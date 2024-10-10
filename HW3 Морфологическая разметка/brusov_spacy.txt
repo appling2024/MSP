@@ -1,0 +1,122 @@
+в. --> в. | tag = PROPN Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing
+я. --> я. | tag = PROPN Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing
+брюсов --> брюсов | tag = PROPN Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing
+на --> на | tag = ADP 
+пруду --> пруд | tag = NOUN Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing
+ты --> ты | tag = PRON Case=Nom|Number=Sing|Person=Second
+белых --> белый | tag = ADJ Case=Gen|Degree=Pos|Number=Plur
+лебедей --> лебедь | tag = NOUN Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur
+кормила --> кормить | tag = VERB Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act
+откинув --> откинуть | tag = VERB Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act
+тяжесть --> тяжесть | tag = NOUN Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing
+черных --> чёрный | tag = ADJ Case=Gen|Degree=Pos|Number=Plur
+кос --> коса | tag = NOUN Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur
+я --> я | tag = PRON Case=Nom|Number=Sing|Person=First
+рядом --> рядом | tag = ADV Degree=Pos
+плыл --> плыть | tag = VERB Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act
+сошлись --> сойтись | tag = VERB Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid
+кормила --> кормить | tag = VERB Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act
+закатный --> закатный | tag = VERB Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass
+луч --> луч | tag = NOUN Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing
+был --> быть | tag = AUX Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act
+странно --> странный | tag = ADJ Degree=Pos
+- --> - | tag = NOUN Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing
+кос --> кос | tag = PROPN Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing
+по --> по | tag = ADP 
+небу --> небо | tag = NOUN Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing
+полосы --> полоса | tag = NOUN Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing
+синели --> синели | tag = NOUN Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur
+вечеровой --> вечеровой | tag = ADJ Case=Nom|Degree=Pos|Gender=Masc|Number=Sing
+багрец --> багрец | tag = NOUN Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing
+кроя --> крой | tag = NOUN Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing
+в --> в | tag = ADP 
+цветах --> цвет | tag = NOUN Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur
+черемух --> черемух | tag = NOUN Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing
+и --> и | tag = CCONJ 
+синели --> синели | tag = NOUN Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur
+скрывались --> скрываться | tag = VERB Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid
+водные --> водный | tag = ADJ Case=Nom|Degree=Pos|Number=Plur
+края --> край | tag = NOUN Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur
+все --> весь | tag = DET Case=Nom|Number=Plur
+формы --> форма | tag = NOUN Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur
+были --> были | tag = AUX Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act
+строго --> строго | tag = ADV Degree=Pos
+- --> - | tag = ADV Degree=Pos
+четки --> четки | tag = NOUN Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur
+миг --> миг | tag = PROPN Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing
+ранил --> ранить | tag = VERB Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act
+сердце --> сердце | tag = NOUN Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing
+сотней --> сотня | tag = NOUN Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing
+жал --> жать | tag = VERB Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act
+я --> я | tag = PRON Case=Nom|Number=Sing|Person=First
+как --> как | tag = SCONJ 
+аскет --> аскет | tag = NOUN Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing
+сжимает --> сжимать | tag = VERB Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act
+четки --> четки | tag = NOUN Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur
+в --> в | tag = ADP 
+руке --> рука | tag = NOUN Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing
+весло --> весло | tag = VERB Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act
+невольно --> невольно | tag = ADV Degree=Pos
+жал --> жать | tag = VERB Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act
+вдруг --> вдруг | tag = ADV Degree=Pos
+лебедей --> лебедей | tag = NOUN Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur
+метнулась --> метнуться | tag = VERB Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid
+пара --> пара | tag = NOUN Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing
+не --> не | tag = PART Polarity=Neg
+знаю --> знать | tag = VERB Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act
+чья --> чей | tag = DET Case=Nom|Gender=Fem|Number=Sing
+была --> быть | tag = AUX Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act
+вина --> вина | tag = NOUN Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing
+закат --> закат | tag = PROPN Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing
+замлел --> замлеть | tag = VERB Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act
+за --> за | tag = ADP 
+дымкой --> дымка | tag = NOUN Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing
+пара --> пар | tag = NOUN Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing
+алея --> алея | tag = PROPN Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing
+как --> как | tag = SCONJ 
+поток --> поток | tag = NOUN Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing
+вина --> вино | tag = NOUN Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing
+была --> быть | tag = AUX Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act
+то --> то | tag = PRON Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing
+правда --> правда | tag = NOUN Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing
+ли --> ли | tag = PART 
+мечта --> мечта | tag = NOUN Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing
+ли --> ли | tag = PART 
+уста --> уста | tag = PROPN Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing
+слились --> слиться | tag = VERB Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid
+в --> в | tag = ADP 
+лодки --> лодка | tag = NOUN Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing
+как --> как | tag = SCONJ 
+и --> и | tag = PART 
+мы --> мы | tag = PRON Case=Nom|Number=Plur|Person=First
+мечтали --> мечтать | tag = VERB Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act
+как --> как | tag = ADV Degree=Pos
+будто --> будто | tag = PART 
+вонзены --> вонзить | tag = VERB Aspect=Perf|Number=Plur|StyleVariant=Short|Tense=Past|VerbForm=Part|Voice=Pass
+во --> в | tag = ADP 
+дно --> дно | tag = NOUN Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing
+я --> я | tag = PRON Case=Nom|Number=Sing|Person=First
+свято --> святой | tag = ADV Degree=Pos
+помню --> помнить | tag = VERB Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act
+эту --> этот | tag = DET Case=Acc|Gender=Fem|Number=Sing
+встречу --> встреча | tag = NOUN Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing
+пруд --> пруд | tag = NOUN Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing
+берег --> берег | tag = NOUN Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing
+неба --> небо | tag = NOUN Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing
+яркий --> яркий | tag = ADJ Case=Nom|Degree=Pos|Gender=Masc|Number=Sing
+плат --> плат | tag = NOUN Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing
+миг --> миг | tag = PROPN Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing
+тот --> тот | tag = DET Case=Nom|Gender=Masc|Number=Sing
+же --> же | tag = PART 
+если --> если | tag = SCONJ 
+вновь --> вновь | tag = ADV Degree=Pos
+я --> я | tag = PRON Case=Nom|Number=Sing|Person=First
+встречу --> встретить | tag = VERB Aspect=Perf|Mood=Ind|Number=Sing|Person=First|Tense=Fut|VerbForm=Fin|Voice=Act
+и --> и | tag = CCONJ 
+жизнь --> жизнь | tag = NOUN Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing
+ничтожная --> ничтожная | tag = VERB Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass
+из --> из | tag = ADP 
+плат --> плата | tag = NOUN Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur
+12 --> 12 | tag = ADJ 
+декабря --> декабрь | tag = NOUN Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing
+1914 --> 1914 | tag = ADJ 

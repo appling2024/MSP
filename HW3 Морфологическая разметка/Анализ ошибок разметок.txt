@@ -1,0 +1,64 @@
+﻿Анализ ошибок для разметки spacy:
+* Брюсов:
+1. Допускает ошибки в определении начальной формы слова:
+* кос --> кос | tag = PROPN Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing
+* синели --> синели | tag = NOUN Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur
+* лебедей --> лебедей | tag = NOUN Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur
+2. Допускает редкие ошибки в определении одушевленности/неодушевленности:
+* синели --> синели | tag = NOUN Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur
+* миг --> миг | tag = PROPN Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing
+3. Допускает ошибки в определении частей речи:
+алея --> алея (*вместо алеть) | tag = PROPN Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing
+
+
+* Шекспир (сонет 13):
+Ошибки не найдены, но почему-то нет показателей одушевленности:
+* son --> son | tag = NOUN Number=Sing
+* father --> father | tag = NOUN Number=Sing.
+
+
+Анализ ошибок для разметки stanza:
+* Брюсов:
+1. Допускает ошибки в определении начальной формы слова:
+* синели --> UPOS: NOUN, Lemma: синель, XPOS: None, Feats: Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing
+* вонзены --> UPOS: VERB, Lemma: вонезти, XPOS: None, Feats: Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass
+* четки --> UPOS: NOUN, Lemma: четка, XPOS: None, Feats: Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur
+2. Допускает ошибки в определении частей речи:
+* кроя --> UPOS: NOUN, Lemma: крой, XPOS: None, Feats: Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing
+* вина --> UPOS: NOUN, Lemma: вина, XPOS: None, Feats: Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing
+3. Допускает ошибки в определении падежей:
+* вина --> UPOS: NOUN, Lemma: вина, XPOS: None, Feats: Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing (оба слова “вина” в тексте не стоят в родительном падеже)
+* лодки --> UPOS: NOUN, Lemma: лодка, XPOS: None, Feats: Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing (род.п., ед.ч. вместо им.п., мн.ч.)
+
+
+* Шекспир (сонет 13):
+1. Допускает ошибки в определении падежей:
+* beauty --> UPOS: NOUN, Lemma: beauty, XPOS: NN, Feats: Number=Sing (им.п. вместо род.п.)
+* end --> UPOS: NOUN, Lemma: end, XPOS: NN, Feats: Number=Sing (номинатив вместо аккузатива)
+
+
+Анализ ошибок для разметки pymorphy3:
+1. Допускает ошибки в определении начальной формы слова:
+* кормила --> кормить (*вместо сущ. кормила) | tag = VERB,impf,tran femn,sing,past,indc
+* вечеровой --> вечеров | tag = NOUN,anim,femn,Sgtm,Surn sing,gent
+* кроя --> крой | tag = NOUN,inan,masc sing,gent
+* синели --> синель | tag = NOUN,inan,femn sing,gent
+2. Допускает ошибки в определении одушевленности/неодушевленности:
+* цветах --> цвета | tag = NOUN,anim,femn,Name plur,loct
+3. Допускает ошибки в определении падежей:
+* края --> край | tag = NOUN,inan,masc sing,gent (род.п. вместо им.п.)
+4. Лучше, чем остальные анализаторы, определяет начальные формы составных слов, но все равно допускает ошибки:
+* строго-четки --> строго-чётки | tag = NOUN,inan,GNdr,Pltm plur,nomn
+* странно-кос --> странный-косой | tag = ADJS,Qual neut,sing
+
+
+Анализ ошибок для разметки pymystem:
+1. Допускает ошибки в определении начальной формы слова:
+* вечеровой --> вечерова | tag = S,фам,жен,од=(пр,ед|дат,ед|род,ед|твор,ед)
+* кормила --> кормить | tag = V,несов,пе=прош,ед,изъяв,жен
+* кроя --> крой | tag = S,муж,неод=род,ед
+* встречу --> встреча | tag = S,жен,неод=вин,ед
+2. Выдает сразу все варианты падежей:
+* вина --> вино | tag = S,сред,неод=(вин,мн|род,ед|им,мн)
+* лодки --> лодка | tag = S,жен,неод=(вин,мн|род,ед|им,мн)
+* уста --> уста | tag = S,мн,неод=(вин|им)

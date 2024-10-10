@@ -1,0 +1,113 @@
+o --> o | tag = INTJ 
+that --> that | tag = SCONJ 
+you --> you | tag = PRON Case=Nom|Person=2|PronType=Prs
+were --> be | tag = AUX Mood=Ind|Tense=Past|VerbForm=Fin
+your --> your | tag = PRON Person=2|Poss=Yes|PronType=Prs
+self --> self | tag = NOUN Number=Sing
+but --> but | tag = CCONJ ConjType=Cmp
+love --> love | tag = NOUN Number=Sing
+you --> you | tag = PRON Case=Nom|Person=2|PronType=Prs
+are --> be | tag = AUX Mood=Ind|Tense=Pres|VerbForm=Fin
+no --> no | tag = ADV 
+longer --> long | tag = ADV Degree=Cmp
+yours --> yours | tag = PRON Poss=Yes|PronType=Prs
+than --> than | tag = SCONJ 
+you --> you | tag = PRON Case=Nom|Person=2|PronType=Prs
+yourself --> yourself | tag = PRON Case=Acc|Person=2|PronType=Prs|Reflex=Yes
+here --> here | tag = ADV PronType=Dem
+live --> live | tag = VERB Tense=Pres|VerbForm=Fin
+against --> against | tag = ADP 
+this --> this | tag = DET Number=Sing|PronType=Dem
+coming --> come | tag = VERB Aspect=Prog|Tense=Pres|VerbForm=Part
+end --> end | tag = NOUN Number=Sing
+you --> you | tag = PRON Case=Nom|Person=2|PronType=Prs
+should --> should | tag = AUX VerbForm=Fin
+prepare --> prepare | tag = VERB VerbForm=Inf
+and --> and | tag = CCONJ ConjType=Cmp
+your --> your | tag = PRON Person=2|Poss=Yes|PronType=Prs
+sweet --> sweet | tag = ADJ Degree=Pos
+semblance --> semblance | tag = NOUN Number=Sing
+to --> to | tag = ADP 
+some --> some | tag = DET 
+other --> other | tag = ADJ Degree=Pos
+give --> give | tag = NOUN Number=Sing
+so --> so | tag = ADV 
+should --> should | tag = AUX VerbForm=Fin
+that --> that | tag = DET Number=Sing|PronType=Dem
+beauty --> beauty | tag = NOUN Number=Sing
+which --> which | tag = PRON 
+you --> you | tag = PRON Case=Nom|Person=2|PronType=Prs
+hold --> hold | tag = VERB Tense=Pres|VerbForm=Fin
+in --> in | tag = ADP 
+lease --> lease | tag = NOUN Number=Sing
+find --> find | tag = VERB VerbForm=Inf
+no --> no | tag = DET 
+determination --> determination | tag = NOUN Number=Sing
+then --> then | tag = ADV PronType=Dem
+you --> you | tag = PRON Case=Nom|Person=2|PronType=Prs
+were --> be | tag = AUX Mood=Ind|Tense=Past|VerbForm=Fin
+your --> your | tag = PRON Person=2|Poss=Yes|PronType=Prs
+self --> self | tag = NOUN Number=Sing
+again --> again | tag = ADV 
+after --> after | tag = ADP 
+yourself --> yourself | tag = PRON Case=Acc|Person=2|PronType=Prs|Reflex=Yes
+'s --> 's | tag = PART 
+decease --> decease | tag = NOUN Number=Sing
+when --> when | tag = SCONJ 
+your --> your | tag = PRON Person=2|Poss=Yes|PronType=Prs
+sweet --> sweet | tag = ADJ Degree=Pos
+issue --> issue | tag = NOUN Number=Sing
+your --> your | tag = PRON Person=2|Poss=Yes|PronType=Prs
+sweet --> sweet | tag = ADJ Degree=Pos
+form --> form | tag = NOUN Number=Sing
+should --> should | tag = AUX VerbForm=Fin
+bear --> bear | tag = VERB VerbForm=Inf
+who --> who | tag = PRON 
+lets --> let | tag = VERB Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+so --> so | tag = ADV 
+fair --> fair | tag = ADJ Degree=Pos
+a --> a | tag = DET Definite=Ind|PronType=Art
+house --> house | tag = NOUN Number=Sing
+fall --> fall | tag = NOUN Number=Sing
+to --> to | tag = ADP 
+decay --> decay | tag = NOUN Number=Sing
+which --> which | tag = DET 
+husbandry --> husbandry | tag = NOUN Number=Sing
+in --> in | tag = ADP 
+honour --> honour | tag = NOUN Number=Sing
+might --> might | tag = AUX VerbForm=Fin
+uphold --> uphold | tag = VERB VerbForm=Inf
+against --> against | tag = ADP 
+the --> the | tag = DET Definite=Def|PronType=Art
+stormy --> stormy | tag = ADJ Degree=Pos
+gusts --> gust | tag = NOUN Number=Plur
+of --> of | tag = ADP 
+winter --> winter | tag = NOUN Number=Sing
+'s --> 's | tag = PART 
+day --> day | tag = NOUN Number=Sing
+and --> and | tag = CCONJ ConjType=Cmp
+barren --> barren | tag = ADJ Degree=Pos
+rage --> rage | tag = NOUN Number=Sing
+of --> of | tag = ADP 
+death --> death | tag = NOUN Number=Sing
+'s --> 's | tag = PART 
+eternal --> eternal | tag = ADJ Degree=Pos
+cold --> cold | tag = NOUN Number=Sing
+o --> o | tag = INTJ 
+none --> none | tag = NOUN Number=Sing
+but --> but | tag = CCONJ ConjType=Cmp
+unthrifts --> unthrift | tag = NOUN Number=Plur
+dear --> dear | tag = VERB VerbForm=Inf
+my --> my | tag = PRON Number=Sing|Person=1|Poss=Yes|PronType=Prs
+love --> love | tag = NOUN Number=Sing
+you --> you | tag = PRON Case=Nom|Person=2|PronType=Prs
+know --> know | tag = VERB Tense=Pres|VerbForm=Fin
+you --> you | tag = PRON Case=Nom|Person=2|PronType=Prs
+had --> have | tag = VERB Tense=Past|VerbForm=Fin
+a --> a | tag = DET Definite=Ind|PronType=Art
+father --> father | tag = NOUN Number=Sing
+let --> let | tag = VERB VerbForm=Inf
+your --> your | tag = PRON Person=2|Poss=Yes|PronType=Prs
+son --> son | tag = NOUN Number=Sing
+say --> say | tag = VERB VerbForm=Inf
+so --> so | tag = ADV 
