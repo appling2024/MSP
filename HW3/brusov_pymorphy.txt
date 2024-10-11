@@ -1,157 +1,158 @@
-В
-.
-Я
-.
-БРЮСОВ
-На
-пруду
-Ты
-белых
-лебедей
-кормила
-,
-Откинув
-тяжесть
-черных
-кос
-…
-Я
-рядом
-плыл
-;
-сошлись
-кормила
-;
-Закатный
-луч
-был
-странно-кос
-.
-По
-небу
-полосы
-синели
-,
-Вечеровой
-багрец
-кроя
-;
-В
-цветах
-черемух
-и
-синели
-Скрывались
-водные
-края
-.
-Все
-формы
-были
-строго-четки
-,
-Миг
-ранил
-сердце
-сотней
-жал
-…
-Я
-,
-как
-аскет
-сжимает
-четки
-,
-В
-руке
-весло
-невольно
-жал
-.
-Вдруг
-лебедей
-метнулась
-пара
-…
-Не
-знаю
-,
-чья
-была
-вина
-…
-Закат
-замлел
-за
-дымкой
-пара
-,
-Алея
-,
-как
-поток
-вина
-.
-Была
-то
-правда
-ли
-,
-мечта
-ли
-,
-—
-Уста
-двоих
-слились
-в
-одно
-.
-Две
-лодки
-,
-как
-и
-мы
-,
-мечтали
-,
-Как
-будто
-вонзены
-во
-дно
-.
-Я
-свято
-помню
-эту
-встречу
-:
-Пруд
-,
-берег
-,
-неба
-яркий
-плат
-…
-Миг
-тот
-же
-если
-вновь
-я
-встречу
-,
-—
-И
-жизнь
-ничтожная
-из
-плат
-!
-12
-декабря
-1914
+        word    normal_form                                tag
+           В              в                               PREP
+           .              .                               PNCT
+           Я              я                NPRO,1per sing,nomn
+           .              .                               PNCT
+      БРЮСОВ         брюсов NOUN,anim,masc,Sgtm,Surn sing,nomn
+          На             на                               PREP
+       пруду           пруд           NOUN,inan,masc sing,datv
+          Ты             ты                NPRO,2per sing,nomn
+       белых          белый                ADJF,Qual plur,gent
+     лебедей         лебедь           NOUN,anim,masc plur,gent
+     кормила        кормить VERB,impf,tran femn,sing,past,indc
+           ,              ,                               PNCT
+     Откинув       откинуть                GRND,perf,tran past
+     тяжесть        тяжесть           NOUN,inan,femn sing,accs
+      черных         чёрный                ADJF,Qual plur,gent
+         кос           коса           NOUN,inan,femn plur,gent
+           …              …                               PNCT
+           Я              я                NPRO,1per sing,nomn
+       рядом          рядом                          ADVB,Prdx
+        плыл          плыть VERB,impf,intr masc,sing,past,indc
+           ;              ;                               PNCT
+     сошлись        сойтись      VERB,perf,intr plur,past,indc
+     кормила        кормить VERB,impf,tran femn,sing,past,indc
+           ;              ;                               PNCT
+    Закатный       закатный           ADJF,Qual masc,sing,nomn
+         луч            луч           NOUN,inan,masc sing,nomn
+         был           быть VERB,impf,intr masc,sing,past,indc
+ странно-кос странный-косой                ADJS,Qual neut,sing
+           .              .                               PNCT
+          По             по                               PREP
+        небу           небо           NOUN,inan,neut sing,datv
+      полосы         полоса           NOUN,inan,femn sing,gent
+      синели         синель           NOUN,inan,femn sing,gent
+           ,              ,                               PNCT
+   Вечеровой        вечеров NOUN,anim,femn,Sgtm,Surn sing,gent
+      багрец         багрец           NOUN,inan,masc sing,nomn
+        кроя           крой           NOUN,inan,masc sing,gent
+           ;              ;                               PNCT
+           В              в                               PREP
+      цветах          цвета      NOUN,anim,femn,Name plur,loct
+     черемух       черёмуха           NOUN,inan,femn plur,gent
+           и              и                               CONJ
+      синели         синель           NOUN,inan,femn sing,gent
+  Скрывались     скрываться      VERB,impf,intr plur,past,indc
+      водные         водный           ADJF,Qual inan,plur,accs
+        края           край           NOUN,inan,masc sing,gent
+           .              .                               PNCT
+         Все            всё                               PRCL
+       формы          форма           NOUN,inan,femn sing,gent
+        были           быть      VERB,impf,intr plur,past,indc
+строго-четки   строго-чётки      NOUN,inan,GNdr,Pltm plur,nomn
+           ,              ,                               PNCT
+         Миг            миг           NOUN,inan,masc sing,accs
+       ранил         ранить VERB,perf,tran masc,sing,past,indc
+      сердце         сердце           NOUN,inan,neut sing,accs
+      сотней          сотня           NOUN,inan,femn sing,ablt
+         жал           жало           NOUN,inan,neut plur,gent
+           …              …                               PNCT
+           Я              я                NPRO,1per sing,nomn
+           ,              ,                               PNCT
+         как            как                               CONJ
+       аскет          аскет           NOUN,anim,masc sing,nomn
+     сжимает        сжимать VERB,impf,tran sing,3per,pres,indc
+       четки          чётки      NOUN,inan,GNdr,Pltm plur,nomn
+           ,              ,                               PNCT
+           В              в                               PREP
+        руке           рука           NOUN,inan,femn sing,loct
+       весло          весло           NOUN,inan,neut sing,nomn
+    невольно       невольно                               ADVB
+         жал           жало           NOUN,inan,neut plur,gent
+           .              .                               PNCT
+       Вдруг          вдруг                               ADVB
+     лебедей         лебедь           NOUN,anim,masc plur,gent
+   метнулась      метнуться VERB,perf,intr femn,sing,past,indc
+        пара           пара           NOUN,inan,femn sing,nomn
+           …              …                               PNCT
+          Не             не                               PRCL
+        знаю          знать VERB,impf,tran sing,1per,pres,indc
+           ,              ,                               PNCT
+         чья            чей           ADJF,Apro femn,sing,nomn
+        была           быть VERB,impf,intr femn,sing,past,indc
+        вина           вино           NOUN,inan,neut sing,gent
+           …              …                               PNCT
+       Закат          закат           NOUN,inan,masc sing,nomn
+      замлел        замлеть VERB,perf,intr masc,sing,past,indc
+          за             за                               PREP
+      дымкой          дымка           NOUN,inan,femn sing,ablt
+        пара           пара           NOUN,inan,femn sing,nomn
+           ,              ,                               PNCT
+        Алея          алеть                GRND,impf,intr pres
+           ,              ,                               PNCT
+         как            как                               CONJ
+       поток          поток           NOUN,inan,masc sing,nomn
+        вина           вино           NOUN,inan,neut sing,gent
+           .              .                               PNCT
+        Была           быть VERB,impf,intr femn,sing,past,indc
+          то             то                               CONJ
+      правда         правда                               PRCL
+          ли             ли                               CONJ
+           ,              ,                               PNCT
+       мечта          мечта           NOUN,inan,femn sing,nomn
+          ли             ли                               CONJ
+           ,              ,                               PNCT
+           —              —                               PNCT
+        Уста           уста      NOUN,inan,GNdr,Pltm plur,accs
+       двоих           двое                NUMR,Coll anim,accs
+     слились        слиться      VERB,perf,intr plur,past,indc
+           в              в                               PREP
+        одно           один      ADJF,Apro,Anum neut,sing,accs
+           .              .                               PNCT
+         Две            два                NUMR inan,femn,accs
+       лодки          лодка           NOUN,inan,femn plur,nomn
+           ,              ,                               PNCT
+         как            как                               CONJ
+           и              и                               CONJ
+          мы             мы                NPRO,1per plur,nomn
+           ,              ,                               PNCT
+     мечтали        мечтать      VERB,impf,intr plur,past,indc
+           ,              ,                               PNCT
+         Как            как                               CONJ
+       будто          будто                               CONJ
+     вонзены        вонзить           PRTS,perf,past,pssv plur
+          во              в                          PREP Vpre
+         дно            дно           NOUN,inan,neut sing,accs
+           .              .                               PNCT
+           Я              я                NPRO,1per sing,nomn
+       свято         святой                ADJS,Qual neut,sing
+       помню        помнить VERB,impf,tran sing,1per,pres,indc
+         эту           этот ADJF,Subx,Apro,Anph femn,sing,accs
+     встречу        встреча           NOUN,inan,femn sing,accs
+           :              :                               PNCT
+        Пруд           пруд           NOUN,inan,masc sing,accs
+           ,              ,                               PNCT
+       берег          берег           NOUN,inan,masc sing,nomn
+           ,              ,                               PNCT
+        неба           небо           NOUN,inan,neut sing,gent
+       яркий          яркий           ADJF,Qual masc,sing,nomn
+        плат          плата           NOUN,inan,femn plur,gent
+           …              …                               PNCT
+         Миг            миг           NOUN,inan,masc sing,accs
+         тот            тот ADJF,Subx,Apro,Anph masc,sing,nomn
+          же             же                               PRCL
+        если           если                               CONJ
+       вновь          вновь                               ADVB
+           я              я                NPRO,1per sing,nomn
+     встречу        встреча           NOUN,inan,femn sing,accs
+           ,              ,                               PNCT
+           —              —                               PNCT
+           И              и                               CONJ
+       жизнь          жизнь           NOUN,inan,femn sing,accs
+   ничтожная      ничтожный           ADJF,Qual femn,sing,nomn
+          из             из                               PREP
+        плат          плата           NOUN,inan,femn plur,gent
+           !              !                               PNCT
+          12             12                          NUMB,intg
+     декабря        декабрь           NOUN,inan,masc sing,gent
+        1914           1914                          NUMB,intg

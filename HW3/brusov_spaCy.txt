@@ -1,214 +1,187 @@
-В.
-Я.
-БРЮСОВ
-
-
-
-На
-пруду
-
-
-Ты
-белых
-лебедей
-кормила
-,
-
-
-Откинув
-тяжесть
-черных
-кос
-…
-
-
-Я
-рядом
-плыл
-;
-сошлись
-кормила
-;
-
-
-Закатный
-луч
-был
-странно
--
-кос
-.
-
-
-По
-небу
-полосы
-синели
-,
-
-
-Вечеровой
-багрец
-кроя
-;
-
-
-В
-цветах
-черемух
-и
-синели
-
-
-Скрывались
-водные
-края
-.
-
-
-Все
-формы
-были
-строго
--
-четки
-,
-
-
-Миг
-ранил
-сердце
-сотней
-жал
-…
-
-
-Я
-,
-как
-аскет
-сжимает
-четки
-,
-
-
-В
-руке
-весло
-невольно
-жал
-.
-
-
-Вдруг
-лебедей
-метнулась
-пара
-…
-
-
-Не
-знаю
-,
-чья
-была
-вина
-…
-
-
-Закат
-замлел
-за
-дымкой
-пара
-,
-
-
-Алея
-,
-как
-поток
-вина
-.
-
-
-Была
-то
-правда
-ли
-,
-мечта
-ли
-,
-—
-
-
-Уста
-двоих
-слились
-в
-одно
-.
-
-
-Две
-лодки
-,
-как
-и
-мы
-,
-мечтали
-,
-
-
-Как
-будто
-вонзены
-во
-дно
-.
-
-
-Я
-свято
-помню
-эту
-встречу
-:
-
-
-Пруд
-,
-берег
-,
-неба
-яркий
-плат
-…
-
-
-Миг
-тот
-же
-если
-вновь
-я
-встречу
-,
-—
-
-
-И
-жизнь
-ничтожная
-из
-плат
-!
-
-
-12
-декабря
-1914
-
-
+      text      lemma   POS                   explain                                                                                    tense
+        В.         в. PROPN               proper noun                                       (Animacy=Anim, Case=Nom, Gender=Masc, Number=Sing)
+        Я.         я. PROPN               proper noun                                       (Animacy=Anim, Case=Nom, Gender=Masc, Number=Sing)
+    БРЮСОВ     брюсов PROPN               proper noun                                       (Animacy=Anim, Case=Nom, Gender=Masc, Number=Sing)
+      \n\n       \n\n SPACE                     space                                                                                       ()
+        На         на   ADP                adposition                                                                                       ()
+     пруду       пруд  NOUN                      noun                                       (Animacy=Inan, Case=Loc, Gender=Masc, Number=Sing)
+        \n         \n SPACE                     space                                                                                       ()
+        Ты         ты  PRON                   pronoun                                                   (Case=Nom, Number=Sing, Person=Second)
+     белых      белый   ADJ                 adjective                                                      (Case=Gen, Degree=Pos, Number=Plur)
+   лебедей     лебедь  NOUN                      noun                                       (Animacy=Anim, Case=Gen, Gender=Masc, Number=Plur)
+   кормила    кормить  VERB                      verb     (Aspect=Imp, Gender=Fem, Mood=Ind, Number=Sing, Tense=Past, VerbForm=Fin, Voice=Act)
+         ,          , PUNCT               punctuation                                                                                       ()
+        \n         \n SPACE                     space                                                                                       ()
+   Откинув   откинуть  VERB                      verb                                      (Aspect=Perf, Tense=Past, VerbForm=Conv, Voice=Act)
+   тяжесть    тяжесть  NOUN                      noun                                        (Animacy=Inan, Case=Acc, Gender=Fem, Number=Sing)
+    черных     чёрный   ADJ                 adjective                                                      (Case=Gen, Degree=Pos, Number=Plur)
+       кос       коса  NOUN                      noun                                        (Animacy=Inan, Case=Gen, Gender=Fem, Number=Plur)
+         …          … PUNCT               punctuation                                                                                       ()
+        \n         \n SPACE                     space                                                                                       ()
+         Я          я  PRON                   pronoun                                                    (Case=Nom, Number=Sing, Person=First)
+     рядом      рядом   ADV                    adverb                                                                             (Degree=Pos)
+      плыл      плыть  VERB                      verb    (Aspect=Imp, Gender=Masc, Mood=Ind, Number=Sing, Tense=Past, VerbForm=Fin, Voice=Act)
+         ;          ; PUNCT               punctuation                                                                                       ()
+   сошлись    сойтись  VERB                      verb                (Aspect=Perf, Mood=Ind, Number=Plur, Tense=Past, VerbForm=Fin, Voice=Mid)
+   кормила    кормить  VERB                      verb     (Aspect=Imp, Gender=Fem, Mood=Ind, Number=Sing, Tense=Past, VerbForm=Fin, Voice=Act)
+         ;          ; PUNCT               punctuation                                                                                       ()
+        \n         \n SPACE                     space                                                                                       ()
+  Закатный   закатный  VERB                      verb (Aspect=Perf, Case=Nom, Gender=Masc, Number=Sing, Tense=Past, VerbForm=Part, Voice=Pass)
+       луч        луч  NOUN                      noun                                       (Animacy=Inan, Case=Nom, Gender=Masc, Number=Sing)
+       был       быть   AUX                 auxiliary    (Aspect=Imp, Gender=Masc, Mood=Ind, Number=Sing, Tense=Past, VerbForm=Fin, Voice=Act)
+   странно   странный   ADJ                 adjective                                                                             (Degree=Pos)
+         -          -  NOUN                      noun                                       (Animacy=Inan, Case=Nom, Gender=Neut, Number=Sing)
+       кос        кос PROPN               proper noun                                       (Animacy=Inan, Case=Nom, Gender=Masc, Number=Sing)
+         .          . PUNCT               punctuation                                                                                       ()
+        \n         \n SPACE                     space                                                                                       ()
+        По         по   ADP                adposition                                                                                       ()
+      небу       небо  NOUN                      noun                                       (Animacy=Inan, Case=Dat, Gender=Neut, Number=Sing)
+    полосы     полоса  NOUN                      noun                                        (Animacy=Inan, Case=Gen, Gender=Fem, Number=Sing)
+    синели     синели  NOUN                      noun                                       (Animacy=Anim, Case=Nom, Gender=Masc, Number=Plur)
+         ,          , PUNCT               punctuation                                                                                       ()
+        \n         \n SPACE                     space                                                                                       ()
+ Вечеровой  вечеровой   ADJ                 adjective                                         (Case=Nom, Degree=Pos, Gender=Masc, Number=Sing)
+    багрец     багрец  NOUN                      noun                                       (Animacy=Inan, Case=Nom, Gender=Masc, Number=Sing)
+      кроя       крой  NOUN                      noun                                       (Animacy=Inan, Case=Gen, Gender=Masc, Number=Sing)
+         ;          ; PUNCT               punctuation                                                                                       ()
+        \n         \n SPACE                     space                                                                                       ()
+         В          в   ADP                adposition                                                                                       ()
+    цветах       цвет  NOUN                      noun                                       (Animacy=Inan, Case=Loc, Gender=Masc, Number=Plur)
+   черемух    черемух  NOUN                      noun                                        (Animacy=Inan, Case=Gen, Gender=Fem, Number=Sing)
+         и          и CCONJ  coordinating conjunction                                                                                       ()
+    синели     синели  NOUN                      noun                                       (Animacy=Anim, Case=Nom, Gender=Masc, Number=Plur)
+        \n         \n SPACE                     space                                                                                       ()
+Скрывались скрываться  VERB                      verb                 (Aspect=Imp, Mood=Ind, Number=Plur, Tense=Past, VerbForm=Fin, Voice=Mid)
+    водные     водный   ADJ                 adjective                                                      (Case=Nom, Degree=Pos, Number=Plur)
+      края       край  NOUN                      noun                                       (Animacy=Inan, Case=Nom, Gender=Masc, Number=Plur)
+         .          . PUNCT               punctuation                                                                                       ()
+        \n         \n SPACE                     space                                                                                       ()
+       Все       весь   DET                determiner                                                                  (Case=Nom, Number=Plur)
+     формы      форма  NOUN                      noun                                        (Animacy=Inan, Case=Nom, Gender=Fem, Number=Plur)
+      были       были   AUX                 auxiliary                 (Aspect=Imp, Mood=Ind, Number=Plur, Tense=Past, VerbForm=Fin, Voice=Act)
+    строго     строго   ADV                    adverb                                                                             (Degree=Pos)
+         -          -   ADV                    adverb                                                                             (Degree=Pos)
+     четки      четки  NOUN                      noun                                        (Animacy=Inan, Case=Nom, Gender=Fem, Number=Plur)
+         ,          , PUNCT               punctuation                                                                                       ()
+        \n         \n SPACE                     space                                                                                       ()
+       Миг        миг PROPN               proper noun                                       (Animacy=Anim, Case=Nom, Gender=Masc, Number=Sing)
+     ранил     ранить  VERB                      verb   (Aspect=Perf, Gender=Masc, Mood=Ind, Number=Sing, Tense=Past, VerbForm=Fin, Voice=Act)
+    сердце     сердце  NOUN                      noun                                       (Animacy=Inan, Case=Acc, Gender=Neut, Number=Sing)
+    сотней      сотня  NOUN                      noun                                        (Animacy=Inan, Case=Ins, Gender=Fem, Number=Sing)
+       жал       жать  VERB                      verb    (Aspect=Imp, Gender=Masc, Mood=Ind, Number=Sing, Tense=Past, VerbForm=Fin, Voice=Act)
+         …          … PUNCT               punctuation                                                                                       ()
+        \n         \n SPACE                     space                                                                                       ()
+         Я          я  PRON                   pronoun                                                    (Case=Nom, Number=Sing, Person=First)
+         ,          , PUNCT               punctuation                                                                                       ()
+       как        как SCONJ subordinating conjunction                                                                                       ()
+     аскет      аскет  NOUN                      noun                                       (Animacy=Inan, Case=Nom, Gender=Masc, Number=Sing)
+   сжимает    сжимать  VERB                      verb   (Aspect=Imp, Mood=Ind, Number=Sing, Person=Third, Tense=Pres, VerbForm=Fin, Voice=Act)
+     четки      четки  NOUN                      noun                                        (Animacy=Inan, Case=Nom, Gender=Fem, Number=Plur)
+         ,          , PUNCT               punctuation                                                                                       ()
+        \n         \n SPACE                     space                                                                                       ()
+         В          в   ADP                adposition                                                                                       ()
+      руке       рука  NOUN                      noun                                        (Animacy=Inan, Case=Loc, Gender=Fem, Number=Sing)
+     весло      весло  VERB                      verb   (Aspect=Perf, Gender=Neut, Mood=Ind, Number=Sing, Tense=Past, VerbForm=Fin, Voice=Act)
+  невольно   невольно   ADV                    adverb                                                                             (Degree=Pos)
+       жал       жать  VERB                      verb    (Aspect=Imp, Gender=Masc, Mood=Ind, Number=Sing, Tense=Past, VerbForm=Fin, Voice=Act)
+         .          . PUNCT               punctuation                                                                                       ()
+        \n         \n SPACE                     space                                                                                       ()
+     Вдруг      вдруг   ADV                    adverb                                                                             (Degree=Pos)
+   лебедей    лебедей  NOUN                      noun                                        (Animacy=Inan, Case=Gen, Gender=Fem, Number=Plur)
+ метнулась  метнуться  VERB                      verb    (Aspect=Perf, Gender=Fem, Mood=Ind, Number=Sing, Tense=Past, VerbForm=Fin, Voice=Mid)
+      пара       пара  NOUN                      noun                                        (Animacy=Inan, Case=Nom, Gender=Fem, Number=Sing)
+         …          … PUNCT               punctuation                                                                                       ()
+        \n         \n SPACE                     space                                                                                       ()
+        Не         не  PART                  particle                                                                           (Polarity=Neg)
+      знаю      знать  VERB                      verb   (Aspect=Imp, Mood=Ind, Number=Sing, Person=First, Tense=Pres, VerbForm=Fin, Voice=Act)
+         ,          , PUNCT               punctuation                                                                                       ()
+       чья        чей   DET                determiner                                                      (Case=Nom, Gender=Fem, Number=Sing)
+      была       быть   AUX                 auxiliary     (Aspect=Imp, Gender=Fem, Mood=Ind, Number=Sing, Tense=Past, VerbForm=Fin, Voice=Act)
+      вина       вина  NOUN                      noun                                        (Animacy=Inan, Case=Nom, Gender=Fem, Number=Sing)
+         …          … PUNCT               punctuation                                                                                       ()
+        \n         \n SPACE                     space                                                                                       ()
+     Закат      закат PROPN               proper noun                                       (Animacy=Anim, Case=Nom, Gender=Masc, Number=Sing)
+    замлел    замлеть  VERB                      verb   (Aspect=Perf, Gender=Masc, Mood=Ind, Number=Sing, Tense=Past, VerbForm=Fin, Voice=Act)
+        за         за   ADP                adposition                                                                                       ()
+    дымкой      дымка  NOUN                      noun                                        (Animacy=Inan, Case=Ins, Gender=Fem, Number=Sing)
+      пара        пар  NOUN                      noun                                       (Animacy=Inan, Case=Gen, Gender=Masc, Number=Sing)
+         ,          , PUNCT               punctuation                                                                                       ()
+        \n         \n SPACE                     space                                                                                       ()
+      Алея       алея PROPN               proper noun                                        (Animacy=Inan, Case=Nom, Gender=Fem, Number=Sing)
+         ,          , PUNCT               punctuation                                                                                       ()
+       как        как SCONJ subordinating conjunction                                                                                       ()
+     поток      поток  NOUN                      noun                                       (Animacy=Inan, Case=Nom, Gender=Masc, Number=Sing)
+      вина       вино  NOUN                      noun                                       (Animacy=Inan, Case=Gen, Gender=Neut, Number=Sing)
+         .          . PUNCT               punctuation                                                                                       ()
+        \n         \n SPACE                     space                                                                                       ()
+      Была       быть   AUX                 auxiliary     (Aspect=Imp, Gender=Fem, Mood=Ind, Number=Sing, Tense=Past, VerbForm=Fin, Voice=Act)
+        то         то  PRON                   pronoun                                       (Animacy=Inan, Case=Nom, Gender=Neut, Number=Sing)
+    правда     правда  NOUN                      noun                                        (Animacy=Inan, Case=Nom, Gender=Fem, Number=Sing)
+        ли         ли  PART                  particle                                                                                       ()
+         ,          , PUNCT               punctuation                                                                                       ()
+     мечта      мечта  NOUN                      noun                                        (Animacy=Inan, Case=Nom, Gender=Fem, Number=Sing)
+        ли         ли  PART                  particle                                                                                       ()
+         ,          , PUNCT               punctuation                                                                                       ()
+         —          — PUNCT               punctuation                                                                                       ()
+        \n         \n SPACE                     space                                                                                       ()
+      Уста       уста PROPN               proper noun                                        (Animacy=Inan, Case=Nom, Gender=Fem, Number=Sing)
+     двоих       двое   NUM                   numeral                                                                               (Case=Gen)
+   слились    слиться  VERB                      verb                (Aspect=Perf, Mood=Ind, Number=Plur, Tense=Past, VerbForm=Fin, Voice=Mid)
+         в          в   ADP                adposition                                                                                       ()
+      одно       одно   NUM                   numeral                                                     (Case=Acc, Gender=Neut, Number=Sing)
+         .          . PUNCT               punctuation                                                                                       ()
+        \n         \n SPACE                     space                                                                                       ()
+       Две        два   NUM                   numeral                                                                   (Case=Nom, Gender=Fem)
+     лодки      лодка  NOUN                      noun                                        (Animacy=Inan, Case=Gen, Gender=Fem, Number=Sing)
+         ,          , PUNCT               punctuation                                                                                       ()
+       как        как SCONJ subordinating conjunction                                                                                       ()
+         и          и  PART                  particle                                                                                       ()
+        мы         мы  PRON                   pronoun                                                    (Case=Nom, Number=Plur, Person=First)
+         ,          , PUNCT               punctuation                                                                                       ()
+   мечтали    мечтать  VERB                      verb                 (Aspect=Imp, Mood=Ind, Number=Plur, Tense=Past, VerbForm=Fin, Voice=Act)
+         ,          , PUNCT               punctuation                                                                                       ()
+        \n         \n SPACE                     space                                                                                       ()
+       Как        как   ADV                    adverb                                                                             (Degree=Pos)
+     будто      будто  PART                  particle                                                                                       ()
+   вонзены    вонзить  VERB                      verb    (Aspect=Perf, Number=Plur, StyleVariant=Short, Tense=Past, VerbForm=Part, Voice=Pass)
+        во          в   ADP                adposition                                                                                       ()
+       дно        дно  NOUN                      noun                                       (Animacy=Inan, Case=Acc, Gender=Neut, Number=Sing)
+         .          . PUNCT               punctuation                                                                                       ()
+        \n         \n SPACE                     space                                                                                       ()
+         Я          я  PRON                   pronoun                                                    (Case=Nom, Number=Sing, Person=First)
+     свято     святой   ADV                    adverb                                                                             (Degree=Pos)
+     помню    помнить  VERB                      verb   (Aspect=Imp, Mood=Ind, Number=Sing, Person=First, Tense=Pres, VerbForm=Fin, Voice=Act)
+       эту       этот   DET                determiner                                                      (Case=Acc, Gender=Fem, Number=Sing)
+   встречу    встреча  NOUN                      noun                                        (Animacy=Inan, Case=Acc, Gender=Fem, Number=Sing)
+         :          : PUNCT               punctuation                                                                                       ()
+        \n         \n SPACE                     space                                                                                       ()
+      Пруд       пруд  NOUN                      noun                                       (Animacy=Inan, Case=Nom, Gender=Masc, Number=Sing)
+         ,          , PUNCT               punctuation                                                                                       ()
+     берег      берег  NOUN                      noun                                       (Animacy=Inan, Case=Nom, Gender=Masc, Number=Sing)
+         ,          , PUNCT               punctuation                                                                                       ()
+      неба       небо  NOUN                      noun                                       (Animacy=Inan, Case=Gen, Gender=Neut, Number=Sing)
+     яркий      яркий   ADJ                 adjective                                         (Case=Nom, Degree=Pos, Gender=Masc, Number=Sing)
+      плат       плат  NOUN                      noun                                       (Animacy=Inan, Case=Nom, Gender=Masc, Number=Sing)
+         …          … PUNCT               punctuation                                                                                       ()
+        \n         \n SPACE                     space                                                                                       ()
+       Миг        миг PROPN               proper noun                                       (Animacy=Anim, Case=Nom, Gender=Masc, Number=Sing)
+       тот        тот   DET                determiner                                                     (Case=Nom, Gender=Masc, Number=Sing)
+        же         же  PART                  particle                                                                                       ()
+      если       если SCONJ subordinating conjunction                                                                                       ()
+     вновь      вновь   ADV                    adverb                                                                             (Degree=Pos)
+         я          я  PRON                   pronoun                                                    (Case=Nom, Number=Sing, Person=First)
+   встречу  встретить  VERB                      verb   (Aspect=Perf, Mood=Ind, Number=Sing, Person=First, Tense=Fut, VerbForm=Fin, Voice=Act)
+         ,          , PUNCT               punctuation                                                                                       ()
+         —          — PUNCT               punctuation                                                                                       ()
+        \n         \n SPACE                     space                                                                                       ()
+         И          и CCONJ  coordinating conjunction                                                                                       ()
+     жизнь      жизнь  NOUN                      noun                                        (Animacy=Inan, Case=Nom, Gender=Fem, Number=Sing)
+ ничтожная  ничтожная  VERB                      verb  (Aspect=Perf, Case=Nom, Gender=Fem, Number=Sing, Tense=Past, VerbForm=Part, Voice=Pass)
+        из         из   ADP                adposition                                                                                       ()
+      плат      плата  NOUN                      noun                                        (Animacy=Inan, Case=Gen, Gender=Fem, Number=Plur)
+         !          ! PUNCT               punctuation                                                                                       ()
+        \n         \n SPACE                     space                                                                                       ()
+        12         12   ADJ                 adjective                                                                                       ()
+   декабря    декабрь  NOUN                      noun                                       (Animacy=Inan, Case=Gen, Gender=Masc, Number=Sing)
+      1914       1914   ADJ                 adjective                                                                                       ()
+        \n         \n SPACE                     space                                                                                       ()
