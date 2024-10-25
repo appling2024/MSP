@@ -1,0 +1,84 @@
+ The “peak grip” tyre secrets that are key to F1’s qualifying battle
+The ultra competitiveness of the Formula 1 field this year means the most marginal of gains can have a huge impact on the outcome of a grand prix weekend.
+
+If a driver can extract just one more tenth out of their tyres over a single qualifying lap, that can be the difference between getting knocked out in Q1 or Q2 or making it all the way through to the final shootout.
+
+And further up in the fight at the front, such margins are defining whether drivers are getting stuck in a chasing pack battle or can enjoy some clean air to gun for a podium.
+
+As Mercedes technical director James Allison said recently: “Around the part of the battle we're fighting, a few hundredths can make a difference sometimes and a couple of tenths would make all the difference in the world.”
+
+One of the critical factors in hitting or missing those hundredths or tenths is tyre preparation in qualifying – if you miss the window then your hopes are pretty much game over.
+
+But the process of finding the peak performance is far from straightforward and it is one that drivers and engineers spend hours on grand prix weekends trying to better understand and exploit.
+
+In an effort to try to help bring some insight to this area, Autosport spoke to Pirelli’s head of car racing and F1 Mario Isola to explain what elements are at play and why the target is such a hard one to reach.
+
+“If we look at a graph, the grip of the tyre is on the vertical co-ordinates and the temperature is on the horizontal,” he said. “In the cold, any compound that is developed for motorsport has little grip. Instead, the grip increases as the temperature goes up. There is a curve that goes up until it reaches a peak, and then beyond that there will be a significant drop in grip due to overeating.”
+
+Working out where this peak grip is delivered then allows teams to understand what the working range of the tyre is.
+
+Isola added: “Once the peak of grip has been reached, at the highest point of the curve, the graph normally shows us a 3% area that we define as the 'working range'. There is then a curve between two points that we try to make flatter and, above all, as wide as possible.
+
+“Our goal is to give the drivers a tyre with a wide plateau, to ensure a bigger operating window.”
+
+Pirelli used to declare in public the best working range for each compound, but that is no longer possible because there are so many more factors at play in defining performance.
+
+Isola added: “The tyre usage window is highly influenced by a series of parameters that can significantly modify the data: we can start from the type of asphalt, or the suspension set-up adjustments. We must not forget that there is a mechanical component of grip and an adhesive one, so there are cars that stress the tyres in very different ways.”
+
+When it comes to races, the key to success is finding a perfect balance between maximum performance within the working range and minimal wear to help with degradation.
+
+Qualifying is a completely different game however where the working range is not the thing being focused on.
+
+“During a flying lap, the driver tries to get as close as possible to peak grip, but avoiding causing the tyre to overheat,” explained Isola. “We are talking about a very narrow field, because we are trying to eliminate this 3% deviation that exists between the working range line and peak grip.”
+
+And it is in this 3% margin that Isola thinks critical time is being found that can make big differences with grid positions.
+
+“We have a grid of 20 cars that are sometimes covered by just over one second,” he said.
+
+“In the past there were times where the top positions had margins of two or three tenths per lap, so it was possible to be just around the working range line. Now, with everyone so close, and divided by hundredths of a second, it becomes essential to reach peak grip: this is the secret to look for in qualifying.”
+
+
+Finding the right balance
+
+The theory of getting tyres into this area of peak grip is easy to talk about but quite hard to achieve in real life – because the tyres are all independent and heat up in different ways. There can, as Isola explains, be a big difference between the front and rears over one lap.
+
+The rear, with added traction, can often be quite easily managed to get into this peak grip range, but the fronts are often much harder.
+
+“The front and rear axles do not work in the same way,” added Isola. “It's not a given that what works on one car will also work on another.”
+
+There are three factors that can influence the temperatures of the tyres: contact with the asphalt, deformation of the carcass and braking.
+
+The rear tyres heat up during traction with acceleration, while the fronts will get hotter during braking. In terms of the deformation of the carcass, temperature can increase based on the lateral forces that act in high-speed corners as well as from aerodynamic load.
+
+Then braking, and how drivers do it, can be really important. At low speed you can use braking to generate heat in the tyre, and drivers can transfer the brake balance to adjust for immediate needs at the front or rear.
+
+With the previous 13-inch tyres, there was also a tendency to heat the rims by radiating heat from the calipers and discs to transfer to the tyres.
+
+However, with the ground effect cars and their 18-inch tyres, the philosophy is to try to extract the temperature – which is why we are seeing complicated brake ducts aimed at circulating fresh air to avoid any overheating.
+
+Preparing the lap
+
+Teams and drivers know the targets that they need to aim for during qualifying, and key to hitting that is ensuring that they nail the preparation lap beforehand.
+
+As Isola explains: “Theoretically the driver looks for ways to start the flying lap with the front and rear at the peak of grip. But this is not always the case, as there are circuits where it is better to start the lap with the rear end that is not quite ready.
+
+“Barcelona is a good example of this. When you get to the third sector, you need traction, so if the tyres have been used too hard previously, then the rear overheats, losing a lot of grip and, therefore, performance.
+
+“So it is important to know how to manage the first two sectors to find a good balance. All you need to do is go out of the window by about 10-degrees and you will lose the peak grip and pay for it with lap time.”
+The Baku City Circuit pit straight
+
+The Baku City Circuit pit straight
+
+Photo by: Steve Etherington / Motorsport Images
+
+Other tracks throw up some different challenges. One example is Baku, which starts with a very long straight.
+
+“What happens is that the air cools the tyre on the straight,” said Isola. “It is true that the temperature is reduced on the surface and not in the bulk of the compound, but when braking at the end of the straight the driver will find himself with less grip.
+
+“In Baku, we record a 30-degree drop between the start of the straight and the end of the straight. So the driver must be aware of these variations so as not to have to deal with surprises.”
+
+The art of getting tyres in that peak grip area is more complicated by the fact that it is such a hard thing to be sure of because there is ultimately no way of measuring tyre temperatures in as detailed a way as teams would like.
+
+As Isola said: “What we would like is the temperature of the bulk of the compound, as it is the heart of the rubber.
+
+“However, we don't have tools capable of doing this. You can point an infrared sensor at the carcass, but the surface temperature can change a lot based on exposure to air, traction or braking. It’s the bulk that has a bit more inertia and better identifies how the compound is working.”
