@@ -1,0 +1,1 @@
+<UnigramTagger: size=18779><BigramTagger: size=33400><TrigramTagger: size=46750>
