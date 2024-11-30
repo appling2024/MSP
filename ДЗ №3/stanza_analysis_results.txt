@@ -1,0 +1,192 @@
+Sentence:
+Token: В., Lemma: В., POS: PROPN
+Token: Я., Lemma: Я., POS: PROPN
+Token: БРЮСО, Lemma: БРЮСО, POS: PROPN
+Token: В, Lemma: В, POS: PROPN
+
+Sentence:
+Token: На, Lemma: на, POS: ADP
+Token: пруду, Lemma: пруд, POS: NOUN
+Token: Ты, Lemma: ты, POS: PRON
+Token: белых, Lemma: белый, POS: ADJ
+Token: лебедей, Lemma: лебедь, POS: NOUN
+Token: кормила, Lemma: кормить, POS: VERB
+Token: ,, Lemma: ,, POS: PUNCT
+Token: Откинув, Lemma: откинуть, POS: VERB
+Token: тяжесть, Lemma: тяжесть, POS: NOUN
+Token: черных, Lemma: черный, POS: ADJ
+Token: кос, Lemma: коса, POS: NOUN
+Token: …, Lemma: …, POS: PUNCT
+
+Sentence:
+Token: Я, Lemma: я, POS: PRON
+Token: рядом, Lemma: рядом, POS: ADV
+Token: плыл, Lemma: плыть, POS: VERB
+Token: ;, Lemma: ;, POS: PUNCT
+Token: сошлись, Lemma: сойтись, POS: VERB
+Token: кормила, Lemma: кормить, POS: VERB
+Token: ;, Lemma: ;, POS: PUNCT
+
+Sentence:
+Token: Закатный, Lemma: закатный, POS: ADJ
+Token: луч, Lemma: луч, POS: NOUN
+Token: был, Lemma: быть, POS: AUX
+Token: странно, Lemma: странный, POS: ADJ
+Token: -, Lemma: -, POS: PUNCT
+Token: кос, Lemma: коса, POS: NOUN
+Token: ., Lemma: ., POS: PUNCT
+
+Sentence:
+Token: По, Lemma: по, POS: ADP
+Token: небу, Lemma: небо, POS: NOUN
+Token: полосы, Lemma: полоса, POS: NOUN
+Token: синели, Lemma: синель, POS: NOUN
+Token: ,, Lemma: ,, POS: PUNCT
+Token: Вечеровой, Lemma: вечеровой, POS: ADJ
+Token: багрец, Lemma: багрец, POS: NOUN
+Token: кроя, Lemma: крой, POS: NOUN
+Token: ;, Lemma: ;, POS: PUNCT
+
+Sentence:
+Token: В, Lemma: в, POS: ADP
+Token: цветах, Lemma: цвет, POS: NOUN
+Token: черемух, Lemma: черема, POS: NOUN
+Token: и, Lemma: и, POS: CCONJ
+Token: синели, Lemma: синель, POS: NOUN
+Token: Скрывались, Lemma: скрываться, POS: VERB
+Token: водные, Lemma: водный, POS: ADJ
+Token: края, Lemma: край, POS: NOUN
+Token: ., Lemma: ., POS: PUNCT
+
+Sentence:
+Token: Все, Lemma: весь, POS: DET
+Token: формы, Lemma: форма, POS: NOUN
+Token: были, Lemma: быть, POS: AUX
+Token: строго, Lemma: строго, POS: ADV
+Token: -, Lemma: -, POS: PUNCT
+Token: четки, Lemma: четка, POS: ADJ
+Token: ,, Lemma: ,, POS: PUNCT
+Token: Миг, Lemma: Миг, POS: PROPN
+Token: ранил, Lemma: ранить, POS: VERB
+Token: сердце, Lemma: сердце, POS: NOUN
+Token: сотней, Lemma: сотня, POS: NOUN
+Token: жал, Lemma: жать, POS: VERB
+Token: …, Lemma: …, POS: PUNCT
+
+Sentence:
+Token: Я, Lemma: я, POS: PRON
+Token: ,, Lemma: ,, POS: PUNCT
+Token: как, Lemma: как, POS: SCONJ
+Token: аскет, Lemma: аскет, POS: NOUN
+Token: сжимает, Lemma: сжимать, POS: VERB
+Token: четки, Lemma: четка, POS: NOUN
+Token: ,, Lemma: ,, POS: PUNCT
+Token: В, Lemma: в, POS: ADP
+Token: руке, Lemma: рука, POS: NOUN
+Token: весло, Lemma: весло, POS: NOUN
+Token: невольно, Lemma: невольно, POS: ADV
+Token: жал, Lemma: жать, POS: VERB
+Token: ., Lemma: ., POS: PUNCT
+
+Sentence:
+Token: Вдруг, Lemma: вдруг, POS: ADV
+Token: лебедей, Lemma: лебедь, POS: NOUN
+Token: метнулась, Lemma: метнуться, POS: VERB
+Token: пара, Lemma: пара, POS: NOUN
+Token: …, Lemma: …, POS: PUNCT
+
+Sentence:
+Token: Не, Lemma: не, POS: PART
+Token: знаю, Lemma: знать, POS: VERB
+Token: ,, Lemma: ,, POS: PUNCT
+Token: чья, Lemma: чей, POS: DET
+Token: была, Lemma: быть, POS: AUX
+Token: вина, Lemma: вина, POS: NOUN
+Token: …, Lemma: …, POS: PUNCT
+
+Sentence:
+Token: Закат, Lemma: закат, POS: NOUN
+Token: замлел, Lemma: замлеть, POS: VERB
+Token: за, Lemma: за, POS: ADP
+Token: дымкой, Lemma: дымка, POS: NOUN
+Token: пара, Lemma: пара, POS: NOUN
+Token: ,, Lemma: ,, POS: PUNCT
+Token: Алея, Lemma: Алея, POS: PROPN
+Token: ,, Lemma: ,, POS: PUNCT
+Token: как, Lemma: как, POS: SCONJ
+Token: поток, Lemma: поток, POS: NOUN
+Token: вина, Lemma: вина, POS: NOUN
+Token: ., Lemma: ., POS: PUNCT
+
+Sentence:
+Token: Была, Lemma: быть, POS: VERB
+Token: то, Lemma: то, POS: PRON
+Token: правда, Lemma: правда, POS: ADV
+Token: ли, Lemma: ли, POS: PART
+Token: ,, Lemma: ,, POS: PUNCT
+Token: мечта, Lemma: мечта, POS: NOUN
+Token: ли, Lemma: ли, POS: PART
+Token: ,, Lemma: ,, POS: PUNCT
+Token: —, Lemma: —, POS: PUNCT
+Token: Уста, Lemma: уста, POS: NOUN
+Token: двоих, Lemma: двое, POS: NUM
+Token: слились, Lemma: слиться, POS: VERB
+Token: в, Lemma: в, POS: ADP
+Token: одно, Lemma: один, POS: NUM
+Token: ., Lemma: ., POS: PUNCT
+
+Sentence:
+Token: Две, Lemma: два, POS: NUM
+Token: лодки, Lemma: лодка, POS: NOUN
+Token: ,, Lemma: ,, POS: PUNCT
+Token: как, Lemma: как, POS: SCONJ
+Token: и, Lemma: и, POS: PART
+Token: мы, Lemma: мы, POS: PRON
+Token: ,, Lemma: ,, POS: PUNCT
+Token: мечтали, Lemma: мечтать, POS: VERB
+Token: ,, Lemma: ,, POS: PUNCT
+Token: Как, Lemma: как, POS: ADV
+Token: будто, Lemma: будто, POS: PART
+Token: вонзены, Lemma: вонезти, POS: VERB
+Token: во, Lemma: в, POS: ADP
+Token: дно, Lemma: дно, POS: NOUN
+Token: ., Lemma: ., POS: PUNCT
+
+Sentence:
+Token: Я, Lemma: я, POS: PRON
+Token: свято, Lemma: свято, POS: ADV
+Token: помню, Lemma: помнить, POS: VERB
+Token: эту, Lemma: этот, POS: DET
+Token: встречу, Lemma: встреча, POS: NOUN
+Token: :, Lemma: :, POS: PUNCT
+Token: Пруд, Lemma: Пруд, POS: PROPN
+Token: ,, Lemma: ,, POS: PUNCT
+Token: берег, Lemma: берег, POS: NOUN
+Token: ,, Lemma: ,, POS: PUNCT
+Token: неба, Lemma: небо, POS: NOUN
+Token: яркий, Lemma: яркий, POS: ADJ
+Token: плат, Lemma: плат, POS: NOUN
+Token: …, Lemma: …, POS: PUNCT
+
+Sentence:
+Token: Миг, Lemma: миг, POS: NOUN
+Token: тот, Lemma: тот, POS: DET
+Token: же, Lemma: же, POS: PART
+Token: если, Lemma: если, POS: SCONJ
+Token: вновь, Lemma: вновь, POS: ADV
+Token: я, Lemma: я, POS: PRON
+Token: встречу, Lemma: встретить, POS: VERB
+Token: ,, Lemma: ,, POS: PUNCT
+Token: —, Lemma: —, POS: PUNCT
+Token: И, Lemma: и, POS: CCONJ
+Token: жизнь, Lemma: жизнь, POS: NOUN
+Token: ничтожная, Lemma: ничтожный, POS: ADJ
+Token: из, Lemma: из, POS: ADP
+Token: плат, Lemma: плат, POS: NOUN
+Token: !, Lemma: !, POS: PUNCT
+
+Sentence:
+Token: 12, Lemma: 12, POS: ADJ
+Token: декабря, Lemma: декабрь, POS: NOUN
+Token: 1914, Lemma: 1914, POS: NUM
+

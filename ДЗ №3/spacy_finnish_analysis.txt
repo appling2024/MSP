@@ -1,0 +1,206 @@
+Слово	Лемма	Часть речи	Синтаксис	Признаки
+Minun	minä	PRON	nmod:poss	Case=Gen|Number=Sing|Person=1|PronType=Prs
+paras	hyvä	ADJ	amod	Case=Nom|Degree=Sup|Number=Sing
+ystäväni	ystävä	NOUN	nsubj:cop	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1
+
+	
+	SPACE	dep	
+Hei	hei	INTJ	discourse	
+,	,	PUNCT	punct	
+olen	olla	AUX	cop	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+Mikko	Mikko	PROPN	ROOT	Case=Nom|Number=Sing
+.	.	PUNCT	punct	
+Olen	olla	AUX	cop	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+kuusitoista	kuusitoki	NOUN	obl	Case=Ela|Number=Sing
+vuotias	vuotias	ADJ	compound:nn	Case=Nom|Degree=Pos|Number=Sing
+ja	ja	CCONJ	cc	
+asun	asu	NOUN	conj	Case=Gen|Derivation=U|Number=Sing
+Joensuussa	Joensuku	PROPN	ROOT	Case=Ine|Number=Sing
+Suomessa	Suomi	PROPN	nmod	Case=Ine|Number=Sing
+.	.	PUNCT	punct	
+Haluan	haluta	VERB	ROOT	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+kertoa	kertoa	VERB	xcomp	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act
+parhaasta	hyvä	ADJ	amod	Case=Ela|Degree=Sup|Number=Sing
+ystävästäni	ystävästä	NOUN	obj	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1
+Villestä	Villestä	PROPN	obl	Case=Ela|Number=Sing
+.	.	PUNCT	punct	
+
+
+	
+
+	SPACE	dep	
+Minä	minä	PRON	nsubj:cop	Case=Nom|Number=Sing|Person=1|PronType=Prs
+ja	ja	CCONJ	cc	
+Ville	Ville	PROPN	conj	Case=Nom|Number=Sing
+tutustuimme	tutustuhdä	VERB	nmod:poss	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act
+lukiossa	lukio	NOUN	ROOT	Case=Ine|Number=Sing
+.	.	PUNCT	punct	
+Hän	hän	PRON	nsubj	Case=Nom|Number=Sing|Person=3|PronType=Prs
+muutti	muuttaa	VERB	ROOT	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+Joensuuhun	Joensuuhun	PROPN	nmod:poss	Case=Gen|Number=Sing
+vuosi	vuosi	NOUN	obl	Case=Nom|Number=Sing
+sitten	sitten	ADP	case	AdpType=Post
+ja	ja	CCONJ	cc	
+olemme	olla	AUX	aux	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+olleet	olla	AUX	cop	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act
+parhaita	hyvä	ADJ	amod	Case=Par|Degree=Sup|Number=Plur
+ystäviä	ystävä	NOUN	conj	Case=Par|Number=Plur
+siitä	se	PRON	obl	Case=Ela|Number=Sing|PronType=Dem
+asti	asti	ADP	case	AdpType=Post
+.	.	PUNCT	punct	
+Ville	Ville	PROPN	nsubj	Case=Nom|Number=Sing
+asui	asua	VERB	ROOT	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+alunperin	alunperin	ADV	advmod	
+Helsingissä	Helsinki	PROPN	obl	Case=Ine|Number=Sing
+,	,	PUNCT	punct	
+mutta	mutta	CCONJ	cc	
+muutti	muuttaa	VERB	conj	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+Joensuuhun	Joensuuhun	PROPN	obl	Case=Ill|Number=Sing
+,	,	PUNCT	punct	
+kun	kun	SCONJ	mark	
+hänen	hän	PRON	nmod:poss	Case=Gen|Number=Sing|Person=3|PronType=Prs
+isänsä	isä	NOUN	nsubj	Case=Nom|Number=Sing|Person[psor]=3
+sai	saada	VERB	advcl	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act
+täältä	täältä	ADV	advmod	
+uuden	uusi	ADJ	amod	Case=Gen|Degree=Pos|Number=Sing
+työpaikan	työpaikka	NOUN	obj	Case=Gen|Number=Sing
+.	.	PUNCT	punct	
+
+
+	
+
+	SPACE	dep	
+Ville	Ville	PROPN	obl	Case=Nom|Number=Sing
+tykkää	tykätä	VERB	ROOT	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+kuunnella	kuunnella	VERB	xcomp	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act
+musiikkia	musiikki	NOUN	obj	Case=Par|Number=Sing
+ja	ja	CCONJ	cc	
+hän	hän	PRON	nsubj	Case=Nom|Number=Sing|Person=3|PronType=Prs
+osaa	osata	VERB	conj	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+soittaa	soittaa	VERB	xcomp	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act
+rumpuja	rumpu	NOUN	obj	Case=Par|Number=Plur
+.	.	PUNCT	punct	
+Ville	Ville	PROPN	nsubj	Case=Nom|Number=Sing
+harrastaa	harrastaa	VERB	ROOT	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+myös	myös	ADV	advmod	
+karatea	karatea	VERB	xcomp:ds	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act
+ja	ja	CCONJ	cc	
+käymme	käymme	VERB	conj	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+samoissa	samoki	PRON	obl	Case=Ine|Number=Plur|PronType=Ind
+karate	karate	VERB	acl	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act
+harjoituksissa	harjoitus	NOUN	obl	Case=Ine|Number=Plur
+.	.	PUNCT	punct	
+Hänen	hän	PRON	nmod:poss	Case=Gen|Number=Sing|Person=3|PronType=Prs
+lempivärinsä	lempiväri	NOUN	nsubj:cop	Case=Nom|Number=Sing|Person[psor]=3
+on	olla	AUX	cop	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+sininen	sininen	ADJ	ROOT	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing
+.	.	PUNCT	punct	
+
+
+	
+
+	SPACE	dep	
+Ville	Ville	PROPN	nsubj:cop	Case=Nom|Number=Sing
+on	olla	AUX	cop	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+pitkä	pitkä	ADJ	ROOT	Case=Nom|Degree=Pos|Number=Sing
+,	,	PUNCT	punct	
+paljon	paljon	ADV	advmod	
+pitempi	pitempi	ADJ	conj	Case=Nom|Degree=Cmp|Number=Sing
+kuin	kuin	SCONJ	mark	
+minä	minä	PRON	advcl	Case=Nom|Number=Sing|Person=1|PronType=Prs
+.	.	PUNCT	punct	
+Hänellä	hän	PRON	ROOT	Case=Ade|Number=Sing|Person=3|PronType=Prs
+on	olla	AUX	cop:own	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+vaaleat	vaalea	ADJ	amod	Case=Nom|Degree=Pos|Number=Plur
+hiukset	hius	NOUN	nsubj:cop	Case=Nom|Number=Plur
+ja	ja	CCONJ	cc	
+vihreät	vihreä	ADJ	amod	Case=Nom|Degree=Pos|Number=Plur
+silmät	silmä	NOUN	conj	Case=Nom|Number=Plur
+.	.	PUNCT	punct	
+Hän	hän	PRON	nsubj:cop	Case=Nom|Number=Sing|Person=3|PronType=Prs
+on	olla	AUX	cop	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+todella	todella	ADV	advmod	
+hauska	hauska	ADJ	ROOT	Case=Nom|Degree=Pos|Number=Sing
+ja	ja	CCONJ	cc	
+kertoo	kertoa	VERB	conj	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+paljon	paljon	ADV	advmod	
+vitsejä	vitsi	NOUN	obj	Case=Par|Number=Plur
+.	.	PUNCT	punct	
+
+
+	
+
+	SPACE	dep	
+Me	minä	PRON	nsubj	Case=Nom|Number=Plur|Person=1|PronType=Prs
+molemmat	molemmat	PRON	det	Case=Nom|Number=Plur|PronType=Ind
+rakastamme	rakastamme	VERB	ROOT	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+urheilua	urheilu	NOUN	obj	Case=Par|Derivation=U|Number=Sing
+ja	ja	CCONJ	cc	
+käymme	käymme	VERB	conj	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+usein	usein	ADV	advmod	
+pyöräilemässä	pyöräilemässä	NOUN	obl	Case=Ine|Number=Plur
+.	.	PUNCT	punct	
+Villellä	Ville	PROPN	ROOT	Case=Ade|Number=Sing
+on	olla	AUX	cop	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+myös	myös	ADV	advmod	
+koira	koira	NOUN	nsubj:cop	Case=Nom|Number=Sing
+nimeltä	nimi	NOUN	nmod	Case=Abl|Number=Sing
+Sisu	Sisu	PROPN	conj	Case=Nom|Number=Sing
+ja	ja	CCONJ	cc	
+otamme	ottaa	VERB	conj	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+hänet	hän	PRON	obj	Case=Acc|Number=Sing|Person=3|PronType=Prs
+usein	usein	ADV	advmod	
+mukaamme	mukaamme	VERB	xcomp:ds	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+ulos	ulos	ADV	advmod	
+.	.	PUNCT	punct	
+
+
+	
+
+	SPACE	dep	
+Kalle	Ka	PROPN	obl	Case=All|Number=Sing
+tykkää	tykätä	VERB	ROOT	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+myös	myös	ADV	advmod	
+lukea	lukea	VERB	xcomp	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act
+sarjakuvia	sarjakuva	VERB	obj	Case=Par|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act
+ja	ja	CCONJ	cc	
+hänellä	hän	PRON	conj	Case=Ade|Number=Sing|Person=3|PronType=Prs
+on	olla	AUX	cop:own	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+iso	iso	ADJ	amod	Case=Nom|Degree=Pos|Number=Sing
+kokoelma	kokoelma	NOUN	nsubj:cop	Case=Nom|Number=Sing
+.	.	PUNCT	punct	
+Hän	hän	PRON	nsubj	Case=Nom|Number=Sing|Person=3|PronType=Prs
+antaa	antaa	VERB	ROOT	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+minun	minä	PRON	nsubj	Case=Gen|Number=Sing|Person=1|PronType=Prs
+myös	myös	ADV	advmod	
+lainata	lainata	VERB	xcomp:ds	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act
+hänen	hän	PRON	nmod:poss	Case=Gen|Number=Sing|Person=3|PronType=Prs
+sarjakuviaan	sarjakuviaan	NOUN	obl	Case=Par|Number=Sing|Person[psor]=3
+.	.	PUNCT	punct	
+Hänen	hän	PRON	nmod:poss	Case=Gen|Number=Sing|Person=3|PronType=Prs
+suosikki	suosikki	NOUN	nsubj:cop	Case=Nom|Number=Sing
+sarjakuvansa	sarjakuv	NOUN	nmod	Case=Nom|Number=Sing|Person[psor]=3
+on	olla	AUX	cop	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+Hämähäkkimies	Hämähäkkimies	NOUN	ROOT	Case=Nom|Number=Sing
+.	.	PUNCT	punct	
+
+
+	
+
+	SPACE	dep	
+En	ei	AUX	aux	Number=Sing|Person=1|Polarity=Neg|VerbForm=Fin|Voice=Act
+ole	olla	AUX	aux	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin
+tuntenut	tuntea	VERB	ROOT	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act
+Villeä	Villeä	PROPN	obj	Case=Par|Number=Sing
+kauan	kauan	ADV	advmod	
+,	,	PUNCT	punct	
+mutta	mutta	CCONJ	cc	
+uskon	uskoa	VERB	conj	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+,	,	PUNCT	punct	
+että	että	SCONJ	mark	
+tulemme	tulla	VERB	ccomp	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
+olemaan	olla	AUX	cop	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act
+ystäviä	ystävä	ADJ	xcomp	Case=Par|Degree=Pos|Number=Plur
+todella	todella	ADV	advmod	
+pitkään	pitkään	ADV	advmod	
+.	.	PUNCT	punct	

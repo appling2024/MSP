@@ -1,0 +1,239 @@
+В.	В.	PUNCT	
+Я.	я.	PROPN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing
+БРЮСОВ	брюсов	PROPN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing
+
+
+	
+
+	SPACE	
+На	на	ADP	
+пруду	пруд	NOUN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing
+
+	
+	SPACE	
+Ты	ты	PRON	Case=Nom|Number=Sing|Person=Second
+белых	белый	ADJ	Case=Gen|Degree=Pos|Number=Plur
+лебедей	лебедь	NOUN	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur
+кормила	кормить	VERB	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act
+,	,	PUNCT	
+
+	
+	SPACE	
+Откинув	откинуть	VERB	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act
+тяжесть	тяжесть	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing
+черных	чёрный	ADJ	Case=Gen|Degree=Pos|Number=Plur
+кос	коса	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur
+…	…	PUNCT	
+
+	
+	SPACE	
+Я	я	PRON	Case=Nom|Number=Sing|Person=First
+рядом	рядом	ADV	Degree=Pos
+плыл	плыть	VERB	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act
+;	;	PUNCT	
+сошлись	сойтись	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid
+кормила	кормить	VERB	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act
+;	;	PUNCT	
+
+	
+	SPACE	
+Закатный	закатный	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing
+луч	луч	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing
+был	быть	AUX	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act
+странно	странный	ADJ	Degree=Pos
+-	-	ADJ	Degree=Pos
+кос	кос	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing
+.	.	PUNCT	
+
+	
+	SPACE	
+По	по	ADP	
+небу	небо	NOUN	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing
+полосы	полоса	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing
+синели	синели	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act
+,	,	PUNCT	
+
+	
+	SPACE	
+Вечеровой	вечеровой	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing
+багрец	багрец	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing
+кроя	крой	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing
+;	;	PUNCT	
+
+	
+	SPACE	
+В	в	ADP	
+цветах	цвет	NOUN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur
+черемух	черемух	NOUN	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur
+и	и	CCONJ	
+синели	синели	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act
+
+	
+	SPACE	
+Скрывались	скрываться	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Pass
+водные	водный	ADJ	Case=Nom|Degree=Pos|Number=Plur
+края	край	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur
+.	.	PUNCT	
+
+	
+	SPACE	
+Все	весь	DET	Case=Nom|Number=Plur
+формы	форма	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur
+были	были	AUX	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act
+строго	строго	ADV	Degree=Pos
+-	-	ADV	Degree=Pos
+четки	четки	NOUN	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing
+,	,	PUNCT	
+
+	
+	SPACE	
+Миг	миг	PROPN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing
+ранил	ранить	VERB	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act
+сердце	сердце	NOUN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing
+сотней	сотня	NOUN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing
+жал	жать	VERB	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act
+…	…	PUNCT	
+
+	
+	SPACE	
+Я	я	PRON	Case=Nom|Number=Sing|Person=First
+,	,	PUNCT	
+как	как	SCONJ	
+аскет	аскет	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing
+сжимает	сжимать	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act
+четки	четки	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur
+,	,	PUNCT	
+
+	
+	SPACE	
+В	в	ADP	
+руке	рука	NOUN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing
+весло	весло	VERB	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act
+невольно	невольно	ADV	Degree=Pos
+жал	жать	VERB	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act
+.	.	PUNCT	
+
+	
+	SPACE	
+Вдруг	вдруг	ADV	Degree=Pos
+лебедей	лебедей	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur
+метнулась	метнуться	VERB	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid
+пара	пара	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing
+…	…	PUNCT	
+
+	
+	SPACE	
+Не	не	PART	Polarity=Neg
+знаю	знать	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act
+,	,	PUNCT	
+чья	чей	DET	Case=Nom|Gender=Fem|Number=Sing
+была	быть	AUX	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act
+вина	вина	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing
+…	…	PUNCT	
+
+	
+	SPACE	
+Закат	закат	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing
+замлел	замлеть	VERB	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act
+за	за	ADP	
+дымкой	дымка	NOUN	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing
+пара	пар	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing
+,	,	PUNCT	
+
+	
+	SPACE	
+Алея	алея	PROPN	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing
+,	,	PUNCT	
+как	как	SCONJ	
+поток	поток	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing
+вина	вино	NOUN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing
+.	.	PUNCT	
+
+	
+	SPACE	
+Была	быть	AUX	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act
+то	то	PRON	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing
+правда	правда	ADV	Degree=Pos
+ли	ли	PART	
+,	,	PUNCT	
+мечта	мечта	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing
+ли	ли	PART	
+,	,	PUNCT	
+—	—	PUNCT	
+
+	
+	SPACE	
+Уста	уста	PROPN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing
+двоих	двое	NUM	Case=Gen
+слились	слиться	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid
+в	в	ADP	
+одно	одно	NUM	Case=Acc|Gender=Neut|Number=Sing
+.	.	PUNCT	
+
+	
+	SPACE	
+Две	два	NUM	Case=Nom|Gender=Fem
+лодки	лодка	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing
+,	,	PUNCT	
+как	как	SCONJ	
+и	и	PART	
+мы	мы	PRON	Case=Nom|Number=Plur|Person=First
+,	,	PUNCT	
+мечтали	мечтать	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act
+,	,	PUNCT	
+
+	
+	SPACE	
+Как	как	ADV	Degree=Pos
+будто	будто	PART	
+вонзены	вонзить	VERB	Aspect=Perf|Number=Plur|StyleVariant=Short|Tense=Past|VerbForm=Part|Voice=Pass
+во	в	ADP	
+дно	дно	NOUN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing
+.	.	PUNCT	
+
+	
+	SPACE	
+Я	я	PRON	Case=Nom|Number=Sing|Person=First
+свято	святой	ADV	Degree=Pos
+помню	помнить	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act
+эту	этот	DET	Case=Acc|Gender=Fem|Number=Sing
+встречу	встреча	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing
+:	:	PUNCT	
+
+	
+	SPACE	
+Пруд	пруд	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing
+,	,	PUNCT	
+берег	берег	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing
+,	,	PUNCT	
+неба	небо	NOUN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing
+яркий	яркий	ADJ	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing
+плат	плат	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing
+…	…	PUNCT	
+
+	
+	SPACE	
+Миг	миг	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing
+тот	тот	DET	Case=Nom|Gender=Masc|Number=Sing
+же	же	PART	
+если	если	SCONJ	
+вновь	вновь	ADV	Degree=Pos
+я	я	PRON	Case=Nom|Number=Sing|Person=First
+встречу	встретить	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=First|Tense=Fut|VerbForm=Fin|Voice=Act
+,	,	PUNCT	
+—	—	PUNCT	
+
+	
+	SPACE	
+И	и	CCONJ	
+жизнь	жизнь	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing
+ничтожная	ничтожный	ADJ	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing
+из	из	ADP	
+плат	плата	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur
+!	!	PUNCT	
+
+	
+	SPACE	
+12	12	ADJ	
+декабря	декабрь	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing
+1914	1914	ADJ	
