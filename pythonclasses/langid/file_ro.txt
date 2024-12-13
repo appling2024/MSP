@@ -1,0 +1,9 @@
+Row 8230 (Confidence: -24.921558380126953):
+Runs small, cute 2 piece.
+
+Row 10789 (Confidence: -82.58469033241272):
+No sirve para agua caliente se deforma
+
+Row 17744 (Confidence: -50.92820429801941):
+correspond au descriptif
+

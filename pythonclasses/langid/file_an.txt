@@ -1,0 +1,9 @@
+Row 14095 (Confidence: -423.32):
+Perfecto, un poco largo para botella de butano, pero se puede cortar . Z z z z z z z Perfecto es home_improvement
+
+Row 12257 (Confidence: -180.99702763557434):
+muy bueno, cómodo, se ajusta bien. q w e r t y u i o p a s d f
+
+Row 14095 (Confidence: -363.1138961315155):
+Perfecto, un poco largo para botella de butano, pero se puede cortar . Z z z z z z z
+

@@ -1,0 +1,174 @@
+Row 448 (Confidence: -75.64):
+2 mal kaputt gegangen SCHLECHT de sports
+
+Row 448 (Confidence: -75.64):
+2 mal kaputt gegangen SCHLECHT de sports
+
+Row 845 (Confidence: -150.10):
+Hat leider nicht geklappt. Flop de pet_products
+
+Row 989 (Confidence: -78.03):
+Sofort kaputt gegangen Kaputt de sports
+
+Row 3388 (Confidence: -121.40):
+Spannend aber man muss mitdenken ;) Spannend de digital_video_download
+
+Row 3590 (Confidence: -67.13):
+Habe Tomatensaft hergestellt Tomtom de home
+
+Row 3988 (Confidence: -125.90):
+Alles gut gerne wieder Alles ok de furniture
+
+Row 4261 (Confidence: -146.38):
+Super klein und praktisch! Top de luggage
+
+Row 4538 (Confidence: -199.19):
+Alles top, gerne wieder Alles top, gerne wieder de watch
+
+Row 5011 (Confidence: -107.21):
+Doesn’t even work . Did nothing for me :( Horrible en beauty
+
+Row 5320 (Confidence: -80.42):
+I never got my order Didn't get it en book
+
+Row 5341 (Confidence: -44.58):
+THIS PRODUCT DID NOT SHOW UP Not delivered. en beauty
+
+Row 5497 (Confidence: -9.92):
+Scam, never came in! Scam! en home
+
+Row 5578 (Confidence: -102.72):
+Didn’t work for me. Did not fit. Wrong number en home_improvement
+
+Row 5749 (Confidence: -55.77):
+Stupid story line & beyond boring! Horrible movie! en digital_video_download
+
+Row 5904 (Confidence: -76.13):
+Does not plug in well. One Star en electronics
+
+Row 6414 (Confidence: -113.32):
+Doesn't show up much Not worth it en drugstore
+
+Row 6545 (Confidence: -35.52):
+ONE OF THE GRABBERS WILL NOT LOCK EXTENDED. CUPS ON BOTH ARE NOT REPLACEABLE. BOTH VERY WOBBLEY WHEN EXTENDED. CHEAPLY MADE! NOT A GOOD BUY! WORKMANSHIP POOR en drugstore
+
+Row 6686 (Confidence: -50.14):
+I ordered pink locks, got purple! Two Stars en home_improvement
+
+Row 6739 (Confidence: -92.92):
+Just get a days worth. Expected more Not very good en electronics
+
+Row 6778 (Confidence: -63.35):
+So boring I couldn't finish it. Two Stars en digital_ebook_purchase
+
+Row 7003 (Confidence: -54.73):
+LOOK MORE BIG AT THE PICTURE Three Stars en kitchen
+
+Row 7369 (Confidence: -73.57):
+Bad writing but interesting concept. Three Stars en digital_ebook_purchase
+
+Row 7574 (Confidence: -67.98):
+Was OK but not wonderful OK en digital_ebook_purchase
+
+Row 7716 (Confidence: -39.90):
+Not terribly uncomfortable No headline en drugstore
+
+Row 7868 (Confidence: -104.21):
+Looks like junk after te first use. Three Stars en lawn_and_garden
+
+Row 8023 (Confidence: -64.30):
+Works great. Does not irritate my gums. Works well! en drugstore
+
+Row 8084 (Confidence: -72.94):
+Little big but works good Works good en automotive
+
+Row 8183 (Confidence: -90.12):
+very light but it works! Four Stars en home
+
+Row 8188 (Confidence: -91.13):
+too much political talk Four Stars en digital_ebook_purchase
+
+Row 8189 (Confidence: -64.57):
+Cute, fun, feel good movie. Yep, worth your time. A good movie! en digital_video_download
+
+Row 8392 (Confidence: -54.31):
+Fit perfect got my MacBook Charging again 2012 13" Four Stars en pc
+
+Row 8454 (Confidence: -103.25):
+messy but does it's job Four Stars en drugstore
+
+Row 8474 (Confidence: -19.36):
+PRICE IS TOO EXPENSIVE BUT TASTE IS GOOD EXPENSIVE - BUT GOOD! en grocery
+
+Row 8573 (Confidence: -183.15):
+got gel polish off, but took 2 applications after buffing nails works... okay en beauty
+
+Row 8579 (Confidence: -114.39):
+Requires long term use to make decision. Four Stars en drugstore
+
+Row 9018 (Confidence: -86.88):
+Super cute. Got here fast. Five Stars en lawn_and_garden
+
+Row 9078 (Confidence: -53.64):
+Amazing lasted months Five Stars en beauty
+
+Row 9105 (Confidence: -105.15):
+Replacement got missing original volume. Came in perfect condition. Great series en book
+
+Row 9146 (Confidence: -121.25):
+Great product. As is described. Definitely useful. Buy it en drugstore
+
+Row 9295 (Confidence: -44.79):
+Great variety. Thank you. Good value en home
+
+Row 9363 (Confidence: -124.84):
+Tastes great, hope it works. Great taste en drugstore
+
+Row 9438 (Confidence: -65.60):
+Perfect fit, makes my refrigerator look new again. Five Stars en home_improvement
+
+Row 9483 (Confidence: -104.12):
+great movie....I enjoyed watching it. Five Stars en digital_video_download
+
+Row 9594 (Confidence: -97.17):
+Coasters worked out well. Great coasters en kitchen
+
+Row 9975 (Confidence: -27.92):
+Works great! Not loud. Great fan en pc
+
+Row 17705 (Confidence: -53.80):
+Pas terrible,beaucoup de bruits Micro fr musical_instruments
+
+Row 5334 (Confidence: -63.564706802368164):
+Screen didn’t work at all
+
+Row 5658 (Confidence: -28.256086826324463):
+Not worth your time. PASS.
+
+Row 5787 (Confidence: -70.60986709594727):
+Movie freezes up. Can't watch it. Doesn't work
+
+Row 6590 (Confidence: -25.35612726211548):
+One came already broken 😢
+
+Row 7868 (Confidence: -16.552348136901855):
+Looks like junk after te first use.
+
+Row 8189 (Confidence: -37.59766960144043):
+Cute, fun, feel good movie. Yep, worth your time.
+
+Row 9105 (Confidence: -69.88601303100586):
+Replacement got missing original volume. Came in perfect condition.
+
+Row 13623 (Confidence: -42.17830467224121):
+muy correctes van muy bien
+
+Row 16921 (Confidence: -69.54770803451538):
+produit moyen trop grande tel bouge en roulant
+
+Row 17705 (Confidence: -36.99276638031006):
+Pas terrible,beaucoup de bruits
+
+Row 19538 (Confidence: 0.36919593811035156):
+Nickel. Produit conforme.
+

@@ -1,0 +1,27 @@
+Row 15225 (Confidence: -345.49):
+Produit reçu très abîmé par le transporteur. Très abîmé fr book
+
+Row 19417 (Confidence: -83.49):
+Tout ok. Très bon livre. RAS fr book
+
+Row 16370 (Confidence: -239.95776414871216):
+C'est très vite abîmé, très déçu
+
+Row 17141 (Confidence: -54.59659767150879):
+Pas très confortable
+
+Row 18776 (Confidence: -112.37124919891357):
+Très bon concept très sympa
+
+Row 19138 (Confidence: -124.68332862854004):
+Très complet, très bien
+
+Row 19417 (Confidence: -83.49160194396973):
+Tout ok. Très bon livre.
+
+Row 19496 (Confidence: -44.4817419052124):
+Très bon produit,. Merci
+
+Row 19638 (Confidence: -150.5405077934265):
+Très bon produit, marche très bien
+

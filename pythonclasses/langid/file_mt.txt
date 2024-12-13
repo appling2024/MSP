@@ -1,0 +1,9 @@
+Row 5525 (Confidence: -53.91):
+Smells like Fish, tastes like Fish. Yuck Ewww en grocery
+
+Row 17137 (Confidence: -30.52):
+Rempli bien sa fonction Cable fr home_improvement
+
+Row 17137 (Confidence: -30.524843215942383):
+Rempli bien sa fonction
+

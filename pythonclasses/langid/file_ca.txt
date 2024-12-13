@@ -1,0 +1,87 @@
+Row 2492 (Confidence: -145.79):
+Sehr teuer allerdings super Produkt! Super aber oho de grocery
+
+Row 5179 (Confidence: -112.58):
+Was not delivered!!! Was not delivered en lawn_and_garden
+
+Row 6417 (Confidence: -32.14):
+Makes OUr Cats Fart! Makes OUr Cats Fart! en pet_products
+
+Row 8219 (Confidence: -70.94):
+Minor inconsistencies but perfect for my use Great en apparel
+
+Row 8522 (Confidence: -77.66):
+Tripod comes apart alot, but just screws back in. Four Stars en camera
+
+Row 9035 (Confidence: -78.22):
+Outstanding, exceed my expectations! Great value en camera
+
+Row 9466 (Confidence: -109.19):
+Outstanding product exceeds my expectations.... Five Stars en lawn_and_garden
+
+Row 10448 (Confidence: -98.00):
+Nunca llegué a recibirlo!!!! No recibido!!!! es electronics
+
+Row 10624 (Confidence: -148.31):
+Nunca me llegó la sudadera Mal es apparel
+
+Row 10722 (Confidence: -278.44):
+Las planté pero no creció nada! No creció nada es lawn_and_garden
+
+Row 10730 (Confidence: -120.49):
+Lleva un lag muy serio... Input lag es pc
+
+Row 11008 (Confidence: -277.52):
+La devolví x q no era la q pedí Devolvi es wireless
+
+Row 12609 (Confidence: -136.40):
+No cubre toda la pantalla de mi pocophone Normal es wireless
+
+Row 12820 (Confidence: -244.06):
+El protector de pantalla llegó un poco roto. Roto. es wireless
+
+Row 13927 (Confidence: -141.92):
+Buen tacto, problema al acabar pila, al tener que descoser Juguetes es toy
+
+Row 14075 (Confidence: -85.64):
+Perfecta. Muy resistents. Perfecta es luggage
+
+Row 19367 (Confidence: -63.58):
+Franchement un excelent produit!! Trepied bon fr camera
+
+Row 5179 (Confidence: -24.296204566955566):
+Was not delivered!!!
+
+Row 10008 (Confidence: -134.52598237991333):
+Sigue sin llegar después de meses
+
+Row 10448 (Confidence: -67.35265684127808):
+Nunca llegué a recibirlo!!!!
+
+Row 10474 (Confidence: -154.21696090698242):
+Es muy malo. Se me rompió antes de una semana de uso
+
+Row 10624 (Confidence: -108.68869543075562):
+Nunca me llegó la sudadera
+
+Row 10730 (Confidence: -72.6067476272583):
+Lleva un lag muy serio...
+
+Row 10946 (Confidence: -58.199047565460205):
+Aun no me ha llegado
+
+Row 11998 (Confidence: -61.891064167022705):
+Todavia no ha llegado
+
+Row 12609 (Confidence: -69.65716600418091):
+No cubre toda la pantalla de mi pocophone
+
+Row 12820 (Confidence: -160.02364444732666):
+El protector de pantalla llegó un poco roto.
+
+Row 19367 (Confidence: -51.531009674072266):
+Franchement un excelent produit!!
+
+Row 19412 (Confidence: -38.98145151138306):
+produit conforme a la description
+

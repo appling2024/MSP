@@ -1,0 +1,66 @@
+Row 15827 (Confidence: -77.49):
+Je n’ai jamais reçu l’article ! ! fr wireless
+
+Row 15925 (Confidence: -188.15):
+Commande jamais reçue Commande jamais reçue fr home
+
+Row 15951 (Confidence: -152.25):
+Je n'ai jamais reçu ma commande !!!!! Commande non reçu fr baby_product
+
+Row 3932 (Confidence: -61.73120641708374):
+Bis dato alles perfekt
+
+Row 4615 (Confidence: -86.6183910369873):
+Gutes qualitativ hochwertiges Produkt.
+
+Row 5546 (Confidence: -44.917879581451416):
+Zero stars!!!! Scam company DO NOT BUY FROM THEM!!!
+
+Row 5976 (Confidence: -33.423046588897705):
+Took forever to do 1 nail.
+
+Row 9734 (Confidence: -64.63644552230835):
+Fits great kinda expensive but it’s good quality
+
+Row 10128 (Confidence: -39.294137954711914):
+Mal producto no comprar
+
+Row 10979 (Confidence: -37.90473747253418):
+Baja,calidad, se rompe enseguida
+
+Row 11852 (Confidence: -51.645896911621094):
+Muy gordo e incómodo
+
+Row 12334 (Confidence: -53.50078296661377):
+Demasiado aparatosa.
+
+Row 13267 (Confidence: -86.26389408111572):
+Buenos aunque algo finos
+
+Row 14178 (Confidence: -212.94970536231995):
+Estupendo producto para escotes de espalda pronunciados.
+
+Row 14298 (Confidence: -124.51096487045288):
+Bueno para seguridad, como alarma
+
+Row 14426 (Confidence: -133.04192900657654):
+Como base para mí árbol de Navidad.
+
+Row 14863 (Confidence: -45.44663619995117):
+Muy buena funda, todo perfecto!
+
+Row 15073 (Confidence: -67.08480739593506):
+Tampon jamais reçu !
+
+Row 15081 (Confidence: -73.94078397750854):
+Commande 2 fois, jamais recu
+
+Row 15827 (Confidence: -54.6083402633667):
+Je n’ai jamais reçu l’article !
+
+Row 15925 (Confidence: -90.32993030548096):
+Commande jamais reçue
+
+Row 15951 (Confidence: -86.67364645004272):
+Je n'ai jamais reçu ma commande !!!!!
+

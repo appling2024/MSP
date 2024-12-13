@@ -1,0 +1,105 @@
+Row 25198:
+最差劲的一次网购，直接扔掉了，根本不能给孩子用。 差劲 zh baby_product
+
+Row 25199:
+想着水煮一下消毒 居然煮缩水了 没法用了 不好 zh baby_product
+
+Row 25433:
+我订了两套，结果给我发过来三只。什么玩意？ 太差了 zh automotive
+
+Row 25436:
+现在都2月份了，寄来的奶粉10月到期，真的太过分了 奶粉保质期短 zh baby_product
+
+Row 26354:
+今天并没有收到快递，为什么显示已经收货？！ 投诉快递 zh baby_product
+
+Row 26407:
+狗粮不错，快递气人，不送上门自取，燥！！！！ 快递不送上门 zh pet_products
+
+Row 26408:
+少一个蓝色的杯子盖，不知道发货时检查过没有 少一个杯子盖 zh baby_product
+
+Row 26505:
+七月到期，就剩下三个月了 这真的是在给美亚清库存啊 临期品 zh baby_product
+
+Row 26912:
+不好用，那个隔片太鸡肋了，会从两侧的孔漏水 不好用 zh baby_product
+
+Row 27014:
+宝宝也不是很喜欢吃 不过作为磨牙还不错 很硬 zh baby_product
+
+Row 27033:
+还没用知道就这样塑料纸包来发货也太随便了 还行吧 zh baby_product
+
+Row 27263:
+和买吸奶器赠送的不同，感觉吸奶器配套的更好些 其实也还可以 zh baby_product
+
+Row 27272:
+以为是蓝莓的，但其实蓝莓汁只占了很少的量 以为是蓝莓的 zh baby_product
+
+Row 27391:
+超级少 瓶子本来就小 还有一半是空的 完全抠 太少了 zh baby_product
+
+Row 27398:
+没什么意思 太简单了 就一个音 不是很值这个价钱 偏贵 不值 zh baby_product
+
+Row 27542:
+不容解挂壁，奶瓶上很多颗粒。不确定真假。 不太好 zh baby_product
+
+Row 27576:
+质量一般 做工不太好 有些地方看起来很差 做工不好 zh baby_product
+
+Row 27719:
+不是很浓稠 产前用 产后哺乳还是要用美德乐 产前够用 zh baby_product
+
+Row 27797:
+可能是宝宝不喜欢，买了后一直没放澡盆里，作用一般 看喜好 zh baby_product
+
+Row 27999:
+比一般的贵，超市里有一牌子，3*80,25元， 有点贵啊 zh baby_product
+
+Row 28365:
+质量很好，无异味，遗憾的是太小，怕小孩子吞下去 太小了 zh baby_product
+
+Row 28496:
+猫猫喜欢吃， 这是重点。 也确实有效果。 效果还行 zh pet_products
+
+Row 28504:
+包装很结实，笔也不错，就是刚开始味道大了点 总体不错 zh office_product
+
+Row 28680:
+应该是正品，刚开始用，没有过敏，吸水性好。 正品 zh baby_product
+
+Row 28682:
+车子不止4.1kg，总体还不错，但是物流太差，座垫都湿了也弄脏了 物流差 zh baby_product
+
+Row 28711:
+十几块的东西，可以了，不是牌子的都要几十块 物美价廉 zh baby_product
+
+Row 29080:
+回购了很多次的杯子 周围的朋友都挺喜欢的 挺不错 主要颜值高 zh baby_product
+
+Row 29122:
+孕妇得用着放心，保湿效果不错，值得购买。 不错 zh baby_product
+
+Row 29171:
+很容易就组装上了，孩子坐上去不哭不闹，比较省力 省力 zh baby_product
+
+Row 29261:
+摸起来很舒服 不用担心宝宝被勒这不舒服了 好评 zh baby_product
+
+Row 29538:
+很好写诶 能生活在商品经济时代真是太好了 爱全球化 zh office_product
+
+Row 29597:
+如题，激光笔的灯头安的位置稍微有点点偏，，，其实还行， 还不错 zh office_product
+
+Row 29730:
+正品，和德国直邮的袋装口感一样。宝宝爱喝 正品 zh baby_product
+
+Row 29799:
+我家孩子一直用的一级帮，200一箱还是挺便宜的！ 满意 zh baby_product
+
+Row 29821:
+儿子一直喝惠氏，不错，价格便宜，送货快～ 很好的奶粉 zh baby_product
+

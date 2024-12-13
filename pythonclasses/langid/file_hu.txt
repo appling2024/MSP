@@ -1,0 +1,12 @@
+Row 15067 (Confidence: -5.27):
+Résultat = POUBELLE ! NUL fr musical_instruments
+
+Row 10968 (Confidence: -110.18425798416138):
+Se rompió nada más usarlo
+
+Row 15067 (Confidence: -5.265357732772827):
+Résultat = POUBELLE !
+
+Row 18324 (Confidence: -62.273666858673096):
+Protection téléphone
+

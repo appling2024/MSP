@@ -1,0 +1,33 @@
+Row 5018 (Confidence: -55.55):
+I REALLY WANTED TO LOVE THIS BUT I DON'T. THE SMELL IS NOT STRONG AT ALL NO MATTER HOW MUCH OF IT ADD. I REALLY WANTED TO LOVE THIS BUT I DON'T en drugstore
+
+Row 5334 (Confidence: -171.60):
+Screen didn’t work at all Didn’t work en wireless
+
+Row 5658 (Confidence: -156.85):
+Not worth your time. PASS. Zero content worth viewing. en digital_video_download
+
+Row 5836 (Confidence: -158.89):
+I did not get my package from poster Did not get it en drugstore
+
+Row 6392 (Confidence: -124.24):
+USB Light is not working USB led light not working en beauty
+
+Row 6992 (Confidence: -96.08):
+Did not fix squeaky floor Didn’t work en home_improvement
+
+Row 7023 (Confidence: -155.21):
+Taste was not as good as expected. Pricey. So so good tootsie pop en grocery
+
+Row 7517 (Confidence: -97.98):
+White gets very dirty Three Stars en sports
+
+Row 8710 (Confidence: -87.79):
+Great for working outside! Four Stars en sports
+
+Row 8994 (Confidence: -125.09):
+So far everything is working. Working great en drugstore
+
+Row 2492 (Confidence: -49.895097732543945):
+Sehr teuer allerdings super Produkt!
+

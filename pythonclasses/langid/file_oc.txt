@@ -1,0 +1,51 @@
+Row 11416 (Confidence: -201.70):
+No lleva enganche. Es un poco cutre. Cutre es sports
+
+Row 15057 (Confidence: -136.51):
+Je ne l'ai pas reçu ! Je ne l'ai pas reçu ! fr home_improvement
+
+Row 15074 (Confidence: -257.92):
+Je n'ai pas reçu les 2 muselières ! j'attends Au 16 octobre pas reçu les 2 muselières fr pet_products
+
+Row 15132 (Confidence: -66.49):
+J'ai pas reçu dommage Dommage fr wireless
+
+Row 15843 (Confidence: -182.12):
+pas utilisé car pas reçu pas reçu fr wireless
+
+Row 16011 (Confidence: -71.08):
+ne pas s'attendre a de la pigmentation 0 pigment fr beauty
+
+Row 17141 (Confidence: -63.40):
+Pas très confortable Passable fr sports
+
+Row 18170 (Confidence: -156.71):
+mon petit fils a adoré - fan de minecraft - excellent fr wireless
+
+Row 18280 (Confidence: -91.63):
+Reçu très rapidement Bien fr home
+
+Row 15057 (Confidence: -66.16124105453491):
+Je ne l'ai pas reçu !
+
+Row 15132 (Confidence: -44.46598434448242):
+J'ai pas reçu dommage
+
+Row 15157 (Confidence: -53.8705415725708):
+Je n'ai pas reçu le bon article.
+
+Row 15184 (Confidence: -205.78376483917236):
+Ça ne marche pas c'est de l'arnaque 🤬🤬🤬
+
+Row 16011 (Confidence: -71.08342170715332):
+ne pas s'attendre a de la pigmentation
+
+Row 18170 (Confidence: -124.36578130722046):
+mon petit fils a adoré - fan de minecraft -
+
+Row 18280 (Confidence: -81.31392645835876):
+Reçu très rapidement
+
+Row 19892 (Confidence: -137.6322958469391):
+Reçu très rapidement, bel article, bonne taille, impeccable
+

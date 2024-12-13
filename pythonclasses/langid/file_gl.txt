@@ -1,0 +1,90 @@
+Row 5976 (Confidence: -70.29):
+Took forever to do 1 nail. It’s ok en pet_products
+
+Row 10902 (Confidence: -315.89):
+Se abre por atras donde se ajusta. No me ha gustado nada esta gorra No me ha gustado es sports
+
+Row 13751 (Confidence: -150.36):
+Descripción correcta. Descripción correcta. es camera
+
+Row 10045 (Confidence: -125.10178852081299):
+No ha llegado a aún....
+
+Row 10126 (Confidence: -303.84399700164795):
+llegó defectuosa .... no volveré a comprar .producto engañoso
+
+Row 10219 (Confidence: -174.70944690704346):
+Muy endeble, se desmonta como te despiste, no me ha gustado nada
+
+Row 10510 (Confidence: -379.89885091781616):
+el producto no se entrega pero en amazon muestra que se entrega. Intenté contactar con seur pero sin suerte.
+
+Row 10722 (Confidence: -162.45094871520996):
+Las planté pero no creció nada!
+
+Row 10787 (Confidence: -145.3869857788086):
+Para qué decir más...
+
+Row 10902 (Confidence: -227.27514839172363):
+Se abre por atras donde se ajusta. No me ha gustado nada esta gorra
+
+Row 11361 (Confidence: -121.87673234939575):
+Para nada parece un reborn...es mona como muñeca...
+
+Row 11432 (Confidence: -134.00174474716187):
+Para pasar un rato divertido pero muy simple
+
+Row 11850 (Confidence: -205.38950777053833):
+Muy pequeño pensado principalmente para motores de moto o culatas con 4 válvulas
+
+Row 12922 (Confidence: -101.69982481002808):
+Buen producto pero talla pequeña
+
+Row 13092 (Confidence: -182.0836534500122):
+Una edición remasterizada pensada para formato. CD no vinilo, suena correcto pero...
+
+Row 13209 (Confidence: -179.40991926193237):
+Buena e interesante información bastante actualizada.
+
+Row 13236 (Confidence: -27.186063289642334):
+Producto para regalar
+
+Row 13378 (Confidence: -77.48037052154541):
+Envío rápido. Todo perfecto
+
+Row 13448 (Confidence: -133.14807081222534):
+Buena máquina. Buen corte aunque oscila algo.
+
+Row 13454 (Confidence: -298.81716775894165):
+Suficiente para usar como Mapamundi para niños pequeños. Está en inglés.
+
+Row 13731 (Confidence: -145.3959994316101):
+Lo use para cambiar señal digital de un PC a TV
+
+Row 13751 (Confidence: -54.11073350906372):
+Descripción correcta.
+
+Row 14102 (Confidence: -92.1803822517395):
+Está genial, muy seguro
+
+Row 14121 (Confidence: -158.22066593170166):
+Perfecto para uso común donde admita uso de aceite con silicona
+
+Row 14325 (Confidence: -77.47743034362793):
+Producto perfecto, como se describe
+
+Row 14409 (Confidence: -70.44141340255737):
+Era para un regalo. Lo esperado.
+
+Row 14569 (Confidence: -118.4892807006836):
+Perfecto a un precio increíble
+
+Row 14889 (Confidence: -72.23113536834717):
+Me ha gustado. Muy útil
+
+Row 17331 (Confidence: -86.01414632797241):
+Pour offrir un cadeau
+
+Row 19595 (Confidence: -36.30205059051514):
+Ma petite fille adore
+

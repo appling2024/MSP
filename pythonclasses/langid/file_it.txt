@@ -1,0 +1,45 @@
+Row 12412 (Confidence: -232.65):
+Tiene un tono amarillo Tiene un tono amarillo es wireless
+
+Row 19698 (Confidence: -136.36):
+Envoi rapide, brosse d'origine a un prix raisonnable Brosse a dent oral b trizone fr personal_care_appliances
+
+Row 5754 (Confidence: -3.5222597122192383):
+Didn't notice a difference.
+
+Row 7956 (Confidence: -43.26610326766968):
+Works ok kinda cheap
+
+Row 9078 (Confidence: -6.3793487548828125):
+Amazing lasted months
+
+Row 9354 (Confidence: -8.572026252746582):
+Quick delivery great product
+
+Row 10174 (Confidence: -55.031519412994385):
+Aun no lo he recibido
+
+Row 10681 (Confidence: -55.031519412994385):
+Aun no lo he recibido.
+
+Row 11754 (Confidence: -88.50864267349243):
+Compre la talla XXL y parece una M.
+
+Row 11799 (Confidence: -62.0180401802063):
+Parece leche dulce, muy flojo
+
+Row 12412 (Confidence: -61.811208724975586):
+Tiene un tono amarillo
+
+Row 13167 (Confidence: -33.44441890716553):
+Muy bonito. Un poco caro
+
+Row 13312 (Confidence: -75.25183534622192):
+Bueno pero un poco caro.
+
+Row 13364 (Confidence: -42.04371738433838):
+De momento muy interesante
+
+Row 15803 (Confidence: -60.54274272918701):
+le motif gene un peu
+

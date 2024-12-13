@@ -1,0 +1,15 @@
+Row 11658 (Confidence: -229.74):
+no esta mal pero la malloria huelen igual y duran muy poco buen ariculo es home
+
+Row 11658 (Confidence: -169.81269788742065):
+no esta mal pero la malloria huelen igual y duran muy poco
+
+Row 11803 (Confidence: -117.34610652923584):
+Vino golpeado pero el embalaje estaba perfecto
+
+Row 12550 (Confidence: -42.003846168518066):
+en la medida al precio
+
+Row 13965 (Confidence: -110.29640769958496):
+Me encantan las gomas, son de buen material.
+
