@@ -1,0 +1,7 @@
+## Грамматика для разбора дат
+NUM[C=?case, ORD=true] -> 'пятое' | 'пятого'
+MONTH[C=?case] -> 'июля'
+YEAR[C=gent] -> 'года'
+DIGIT -> '1993' 
+
+S[DATE=?date] -> NUM[C=nomn, ORD=true] MONTH[C=nomn] DIGIT YEAR[C=gent]
