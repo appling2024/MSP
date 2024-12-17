@@ -1,0 +1,5 @@
+NOUN[initials.  'А.С' ] -> 'А.С'
+NOUN[initials.  '.' ] -> '.'
+NOUN[C=nomn, G=masc, NUM=sing, PER=3, NF=u'пушкин'] -> 'пушкин'
+NOUN[C=nomn, G=masc, NUM=sing, PER=3, NF=u'пушкин'] -> 'пушкин'
+NOUN[C=accs, G=masc, NUM=sing, PER=3, NF=u'пушкин'] -> 'пушкин'
