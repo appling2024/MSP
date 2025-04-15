@@ -1,0 +1,15 @@
+﻿Алгоритм,Precision,Recall,F1
+Solovyev_IMS_2022.Spacy.keywords,0.7,1.0,0.824
+Solovyev_IMS_2022.TextRank.keywords,0.7,1.0,0.824
+Solovyev_IMS_2022_Abstract_rus.Spacy.keywords,0.7,1.0,0.824
+Solovyev_IMS_2022_Abstract_rus.TextRank.keywords,0.7,1.0,0.824
+Solovyev_IMS_2022_Abstract_rus.Yake.keywords,0.7,1.0,0.824
+Solovyev_IMS_2022.Yake.keywords,0.7,1.0,0.824
+Solovyev_IMS_2022_Abstract_rus.keybert_keywords,0.636,1.0,0.778
+keybert_keywords,0.636,1.0,0.778
+keybert.bigram.keywords,0.636,1.0,0.778
+keybert.trigram.keywords,0.636,1.0,0.778
+Solovyev_IMS_2022_Abstract_rus.keybert.bigram.keywords,0.636,1.0,0.778
+Solovyev_IMS_2022_Abstract_rus.keybert.trigram.keywords,0.636,1.0,0.778
+Solovyev_IMS_2022_Abstract_rus.keywords.RAKE,0.25,1.0,0.4
+keywords.RAKE,0.031,1.0,0.06
