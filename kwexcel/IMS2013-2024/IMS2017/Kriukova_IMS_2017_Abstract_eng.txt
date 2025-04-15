@@ -1,0 +1,18 @@
+Computing semantic similarity of Russian texts by means
+of DKPro Similarity tool
+A. Kriukova
+St. Petersburg State University
+This paper looks into a problem of computing semantic similarity of texts in
+Russian. In course of experiments we employ an open-source framework DKPro
+Similarity, and describe its advantages for this purpose. Our attention is focused on
+string metrics of computing text similarity. Experiments are carried out on test
+samples including similar extracts from fiction, research, and news texts. For pairs of
+texts we use several string-based similarity metrics, implemented in DKPro
+Similarity, and pass the computed values as features for machine learning algorithms.
+We also present a method of evaluating similarity measures’ relevance for particular
+purposes. Results of the research prove that simple string-based metrics contribute to
+performance of linear models while trying to identify whether texts belong to the
+same group – with average F-measure value 0,88 for eight datasets. In future we also
+plan to use semantic text similarity measures which make use of external sources of
+knowledge, e.g. Wikipedia, and employ more sophisticated machine learning
+algorithms to improve the performance in some difficult cases.

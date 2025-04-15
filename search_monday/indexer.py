@@ -11,12 +11,16 @@ class Indexer:
                 continue
             fullpath = os.path.join(path, fname)
             doc_no = self.index.add_doc(fullpath)
+            pos = 0
+            line_no = 0
             with open(fullpath, encoding="utf-8") as fh:
                 for line in fh:
                     tokens = line.strip().lower().split()
                     for token in tokens:
                         for lemma in self.index.get_normalized_terms(token):
-                            self.index.add(doc_no, lemma)
+                            self.index.add(doc_no, lemma, pos, line_no == 0)
+                            pos += 1
+                        line_no += 1
         self.index.save(r"C:\Users\user\Documents\GitHub\MSP\search_monday\index.inv")
 
 if __name__ == "__main__":

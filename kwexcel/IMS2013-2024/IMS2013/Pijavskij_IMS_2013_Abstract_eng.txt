@@ -1,0 +1,13 @@
+Mathematical models of factual information
+optimal systematization in electronic
+libraries
+Pijavskij S.A., Voroshilov V.V.
+Consider a new approach to organize and use factual
+information in the information space. This approach is
+proposed as an alternative to existing development in
+the knowledge representation and systematization, in
+particular information search systems. The article
+describes the special technology of information storage,
+processing, systematization and representation. The
+article describes the mathematical models of factual
+information optimal systematization.

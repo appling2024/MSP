@@ -1,0 +1,20 @@
+Semi-Automatic Lexicon Augmenting
+Based on Syntactic Relations
+Yu. V. Adaskina, P. V. Panicheva, A. M. Popov
+The paper presents a semi-automatic algorithm for
+domain-specific semantic classes compilation. We are
+dealing with raw user reviews analysis for service companies, for whom staff evaluations are a major concern.
+The first step of any analytical system dealing with such
+data, intended to carry out either opinion mining or fact
+extraction, is creating a staff terms lexicon. The aim of
+our research was to reduce expert work while creating
+staff terms lexicon for commercial applications. We use
+a syntactically annotated corpus of user reviews on airline service. The method is based on two staff terms that
+have come up in 103 most frequent words list. They
+constitute the initial positive class, while the other 101
+are regarded as the initial negative class. Using syntactic relations as machine learning parameters we bootstrap new words and build up the lexicon. The results
+show that the algorithm is indeed helpful for reducing
+expert’s time and effort and allows for up to 90% recall.
+Experiment parameters can be adjusted depending on
+how many staff terms need to be covered and how
+much time is available to the expert.

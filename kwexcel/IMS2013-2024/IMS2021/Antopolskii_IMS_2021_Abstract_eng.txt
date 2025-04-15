@@ -1,0 +1,7 @@
+Linguistic Resources:
+European Experience and Lessons for Russia
+A.B. Antopolskii
+INION RAS
+The problem of creating an infrastructure to support linguistic information resources (LIR) is discussed. The experience of CLARIN - Common European Research Infrastructure for Language
+Resources and Technology, is described. It describes the existing CLARIN services and their development strategy for the next 3 years. Proposals are formulated for a program for the development and support of LIR in Russia, including information support, financing, standardization, archiving, and other necessary services. The best solution seems to be to present the LIR as linked
+open data, but the problem is the need to motivate developers to participate in the LLOD cloud.

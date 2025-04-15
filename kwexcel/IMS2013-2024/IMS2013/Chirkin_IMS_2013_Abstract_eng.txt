@@ -1,0 +1,7 @@
+The some problems of automated data
+extraction from web pages
+E.S. Chirkin
+The article describes the some frequent problems
+and their solutions in some automate the extraction of
+data (data ex-traction) for further in-depth analysis (data
+mining) from the Internet

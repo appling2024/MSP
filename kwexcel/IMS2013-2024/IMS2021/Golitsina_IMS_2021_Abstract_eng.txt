@@ -1,0 +1,20 @@
+Using of the Semantic Search Image in the Task
+of Identifying Definitions of Concepts
+O.L. Golitsina, A.S. Gavrilkina
+National Research Nuclear University MEPhI
+The article presents the results of an experiment to identify definitions of concepts in full semistructured texts of scientific and technical articles under the task of semantic indexing of document
+texts. The content of the text is considered as a set of elementary facts represented by triplets,
+including the names of entities and relationships (situational and immanent). The technique for
+constructing triplets is based on the use of lexical-syntactic templates, which allow to form triplets
+for individual sentences of the text. To typify situational relationships, a relationship taxonomy is
+used, the classes in which include a set of linguistic constructions. The use of the relationship
+taxonomy as an additional linguistic support allows for a specific linguistic construction to
+determine the type of relationship and build a unified (up to the types of relations of the taxonomy)
+graph-theoretic model of the text, and thereby ensure the comparability of meanings expressed by
+different linguistic constructions.
+The experiment was carried out for the class of the relationship taxonomy «Definition of the
+concept», in which three linguistic constructions are considered - «называть» (to call), «понимать
+под» (to understand by) and «подразумевать под» (to mean by). For each linguistic construction,
+the recall and precision of identifying definitions of concepts are calculated based on the full texts
+of 115 scientific-technical articles on the topic "Nuclear Power". Examples of text fragments
+corresponding to triplets with a relationship from the «Definition of the concept» class are given.

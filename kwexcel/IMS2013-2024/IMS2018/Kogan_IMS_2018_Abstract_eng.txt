@@ -1,0 +1,19 @@
+On Problem of Creating a German Engineering Academic Words and Formulas List
+Marina Kogan, Anna Yaroshevich, Anna Kolotaeva, - all Peter the Great Saint Petersburg
+Polytechnic University
+Victor Zakharov - Saint Petersburg State University
+Sigrun Schroth Wiechert, Anna Tilmans –both Leibniz Universität Hannover
+The article deals with statistical analysis of German texts in order to find reoccurring lexical
+bundles. Unlike the English language there are no academic formulas and words frequency lists
+in German academic discourse. The authors analyzed the Elektrotechnik subcorpus of the
+Kod.ING corpus, which contains PhD dissertations in German in different engineering fields.
+The Kod.ING corpus is being developed at Leibniz University of Hannover (LUH) as a part of a
+joint project with St. Petersburg Polytechnic University.
+The article presents lists of the most frequent nouns and lexical bundles found with WordList and
+N-gram functions correspondingly of the AntConc freeware corpus analysis toolkit for
+concordancing and text analysis. The paper discusses lexical and grammatical peculiarities of the
+selected lexical bundles, highlighting similarities with English academic formulas and words
+frequency lists. In particular, the dominance of prepositional phrases in the list has been noticed.
+Limitations of AntConc program for analysis of relatively large German corpora are described
+and perspectives of applying the findings in teaching German for specific purposes are
+considered.

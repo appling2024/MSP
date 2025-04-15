@@ -1,0 +1,14 @@
+Aspect-based Restaurant Sentiment Analysis for E-Tourism
+Recommender Systems
+E. Pronoza1, E. Yagunova1
+Saint-Petersburg State University
+This paper presents an aspect-based approach towards sentiment analysis of
+reviews about restaurants for e-tourism recommender systems. The proposed method
+can be applied not only in the recommender systems but in the other text
+understanding systems where the data is unstructured and the texts belong to
+colloquial style. We conduct a series of experiments with various feature sets and
+classifiers, and it is shown that the use of resources learnt from the corpus of reviews
+leads to the improvement of the restaurant aspects classification models. Naïve Bayes
+appears to be the best choice for identifying sentiment class, while Logistic
+Regression and SVM are best at deciding on the relevance of a review with respect to
+the particular restaurant aspect.

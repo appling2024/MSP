@@ -1,0 +1,6 @@
+Using the UML language for modeling and representing ontologies of specialized subject areas
+The main principles of ontology classification are investigated in the article. It is concluded that the main
+components of the domain ontology are: classes (concepts), relations (properties, attributes), functions, axioms,
+instances (individuals). The use of the UML for modeling and representation of the ontological model of the domain
+is proposed, which allows creating a thesaurus, formal taxonomies, formal instances, arbitrary logical constraints
+(queries).

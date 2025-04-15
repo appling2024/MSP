@@ -1,0 +1,13 @@
+Interpretation of Semantic Relations in
+the texts of the Russian LiveJournal
+Segment based on LDA Topic Model
+S.N. Koltsov, O.Ju. Koltsova,
+O.A. Mitrofanova, A.S.Shimorina
+The paper deals with the experimental results of
+topic modeling performed on the Russian LiveJournal
+Corpus with the help of TopicMiner tool based on
+LDA (Latent Dirichlet Allocation). Our data allowed
+to form the set of topics related to the posts of LJ users, and to describe the main types of semantic relations within topics. The results of our research can be
+explained from the point of view of the theory of lexical functions, frame semantics and construction
+grammar. Semantic analysis of topics reveals dynamic processes in language perception of Russian LJ
+users.
