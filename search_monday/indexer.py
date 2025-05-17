@@ -18,7 +18,7 @@ class Indexer:
                     tokens = line.strip().lower().split()
                     for token_pos, token in enumerate(tokens):
                         self.index.add(doc_no, token, token_pos, is_title=(pos == 0))
-        
+        self.index.finalize()
         self.index.save("index.inv")
 
 

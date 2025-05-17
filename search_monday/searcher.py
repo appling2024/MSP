@@ -52,7 +52,7 @@ class Searcher:
                         break        
         return result
 
-    def search(self, query: str) -> list[tuple[str, float]]:
+    def search_boolean(self, query: str) -> list[tuple[str, float]]:
         if not query:
             return []
         tokens = query.split()
@@ -74,6 +74,18 @@ class Searcher:
             except ValueError:
                 return []
         return []
+
+    def search(self, query: str) -> list[int]:
+        tokens= query.lower().split()
+        #normalize
+        
+        Q = self.index.vectorize(tokens)
+        relev = {}
+        for doc_no in self.index.docs:
+            score = self.index.get_score(Q, doc_no)
+            relev[doc_no] = score
+        return sorted(relev, key=relev.get, reverse=True)[:10]
+
 
 if __name__ == "__main__":
     s = Searcher('index.inv', 'stopwords.txt')
