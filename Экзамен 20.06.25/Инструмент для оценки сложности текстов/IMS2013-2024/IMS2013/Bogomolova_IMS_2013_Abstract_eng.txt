@@ -1,0 +1,26 @@
+UIS RUSSIA: Experiment on Public
+Administration Domain Ontology as a Tool
+for Socio-Economic Statistical Data and
+Analytical Publications Integration
+A. V. Bogomolova, N. F. Dyshkant, A. Yu. Krylov, O.
+V.Petukhova, T. N.Yudina
+
+The paper reports on the experiments undertaken by
+University Information System RUSSIA team to exploit
+the public administration domain ontology, created
+under the project to provide for domain knowledge
+organization and for a value-added search. The ontology
+described has proved its appropriateness for statistical
+data and analytical publications search and contentbased integration. Further work on ontology evaluation
+is needed and is planned to be done to improve the
+results.
+Ontology is a perspective field for research and
+applications, dynamically developed during last
+decades. Public administration is under increasing social
+attention throughout the world due to its effective
+performance being crucial for any country development
+and competitiveness in the future. Public administration
+has become a knowledge consuming field.
+To implement public administration ontology-based
+data and knowledge products integration is a challenge
+for investigators and a social demand.

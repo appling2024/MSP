@@ -1,0 +1,2 @@
+translation of terminology, parallel corpora, term candidates, glossary of
+terms, morphosyntactic patterns, automatic extraction of terminology.

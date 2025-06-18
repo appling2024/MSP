@@ -1,0 +1,24 @@
+Linguistics of Big Corpora
+V. Zakharov
+Saint-Petersburg State University
+Institute for Linquistic Studies of the Russian Academy of Sciences
+Quantitative evaluation of linguistic data and mathematical methods of their
+processing are of great interest for linguists. A rich source of statistical information
+are text corpora. The paper describes experimental studies of the stability of word
+combinations and methods for their quantitative estimation in synchronic and
+diachronic. It shows how text corpora and corpus methods and tools such as
+association measures, word sketches, concordances can be used to expand the entries
+in existing dictionaries and how set phrases could be evaluated quantitatively. Corpus
+linguistics understand set phrases as statistically determined unities. This approach is
+the basic point of different automatic ways to extract idioms and collocations. There
+are a small numbers of works on set phrases productivity during time periods because
+of small size of historical corpora. In this research examined set phrases usage was
+studied diachronically on the base of the big Google books Ngram Viewer Russian
+corpus counting billions of tokens. The study argues that diachronic productivity is
+best evaluated with a studying contexts. Used corpus tools enable to do it. Ultimately,
+it is shown and maintained that corpus linguistics methods and tools allow to create
+dictionaries of new type which have to include a larger amount of set phrases and
+collocations than before. However, there is the problem of verification and the
+reliability of the data obtained on the basis of corpora. To fulfil their potential
+capabilities corpora must satisfy such requirements as representativeness (volume)
+and balance (quality).

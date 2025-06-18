@@ -1,0 +1,15 @@
+Testing and assessment of the NLTK4RUSSIAN hybrid morphological analyzer
+A.K. Kirillova1, A.G. Melnik1, A.D. Pletneva1, E.V. Enikeeva1, O.A.Mitrofanova1
+1
+
+Saint-Petersburg State University
+
+This paper describes a series of experiments aimed at testing the hybrid morphological
+analyzer NLTK4RUSSIAN on the datasets of the Dialogue Evaluation 2017. We provide a
+detailed explanation of the principles and main operation modes of the system. Experiments on
+training the system were based on RNC and OpenCorpora subcorpora. Certain problems dealing
+with the data format were solved in course of research: we performed conversion of Universal
+Dependencies markup format to PyMorphy2 format. The analyzer was tested on social network
+subcorpus, news subcorpus and fiction subcorpus. Test results for the NLTK4RUSSIAN
+morphological analyzer correspond to the gold standard of morphological annotation for the
+Russian language.

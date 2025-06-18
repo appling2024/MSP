@@ -1,0 +1,11 @@
+Automation of Bibliographic Processes
+M.A. Belinskaya, I.I. Novitskaya, E.A. Tileva
+The report presents the experience of automation of
+bibliographic library processes. Considered the most
+important directions of the Scientific department of
+informatics and automation, such as creation of
+electronic catalog, digitization, work on the program
+“The scientific heritage of Russian Academy of
+Sciences”, development and maintenance of factual
+databases on conservation and preservation library
+collections.

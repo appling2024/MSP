@@ -1,0 +1,13 @@
+Corpus Linguistics Methods in Humanitarian Studies
+A. Ts. Masevich 1, V. P. Zakharov 2
+St. Petersburg State Institute for Culture and Arts
+2
+St. Petersburg State University; Institute for Linguistic Studies, RAS
+1
+
+The paper presents results of diachronic researches of political terms with the system
+Google books Ngram Viewer. We studied fluctuations of frequency the lexical units
+in the texts of Russian books in the period from 1920 to 2000. The results show
+connection of frequency fluctuation of words with historical events, which allows
+various interpretations. This can be of interest both for culturological and for
+linguistic studies.

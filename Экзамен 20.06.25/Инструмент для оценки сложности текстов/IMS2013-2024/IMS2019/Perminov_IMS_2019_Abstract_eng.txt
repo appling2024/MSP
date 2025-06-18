@@ -1,0 +1,14 @@
+Integrating Tools and Services for Assessment of Web User Interfaces and
+Identification of Usability Risks
+N. Perminov, M. Bakaev
+Novosibirsk State Technical University
+In the field of user interface development, there is a growing need for auto-assessing quality
+attributes, such as usability, accessibility, HTML and CSS correctness, aesthetic attractiveness
+for target users, complexity and clutter, trustworthiness, etc. To solve this request, there are two
+mainstream approaches - HTML/CSS code analysis and webpage’s visual representation mining.
+However, the number of related algorithms and tools is enormous, and it continues to grow
+rapidly. As a result, it became necessary to structure them.
+In the paper, propose a solution to this problem by creating an ontology, which acts as a
+classification of attributes and metrics for measuring the quality of web resources. The process of
+its creation is illustrated and the rationale for its usefulness for evaluating and improving modern
+web interfaces is given.

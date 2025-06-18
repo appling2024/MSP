@@ -1,0 +1,14 @@
+A Formal Language Model of Verse and the Regulatives of Verse Meters
+for Automated Meter Recognition
+V. Boikov 1, M. Kariaeva 1, I. Pilshchikov 2,3
+1 Yaroslavl Demidov State University, 2 Lomonosov Moscow State University, 3 Tallinn
+University
+The paper presents a formal language model of the syllable representation of the poetic text and
+regulatives of verse meters, determined by the parameters of particular segments of a line.
+Metro-rhythmical segments are identified that constitute both the meter and the rhythm of verse.
+A definition of a meter of Russian verse is used, which is supported by such measurable
+segments of the verse as the phonetic word and the meter-generating verse period with its interictic interval.
+The values of regulatives for the repertoire of meters of Russian verse are determined. Such
+phenomena as the extra-schematic stresses and skipping of schematic stresses are also
+considered.
+The procedures for automatic recognition of verse meters are described.

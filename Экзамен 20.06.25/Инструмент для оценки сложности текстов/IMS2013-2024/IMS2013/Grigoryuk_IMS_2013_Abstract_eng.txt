@@ -1,0 +1,10 @@
+Experimental Data Magament Using
+Modern Web Ttechnologies
+A.P. Grigoriuk, L.P. Braginskaya
+Conceptual basis, architecture and software of weboriented data-processing system for managing structured and unstructured data of natural and computational experiments are considered. The system provides
+search, computational analytical and GIS services to
+work effectively with the data.
+As an example of the practical implementation of
+the proposed architecture is presented developed by the
+authors of the report data-processing system "Vibroseismic Earth Sounding" for the management data obtained during the experiments on active vibroseismic
+monitoring.

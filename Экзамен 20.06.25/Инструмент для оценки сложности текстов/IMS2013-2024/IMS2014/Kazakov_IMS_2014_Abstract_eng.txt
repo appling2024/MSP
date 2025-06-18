@@ -1,0 +1,16 @@
+Phenomena of Social Network Services:
+Issues of Terminology and the Approaches
+to Platform Organization
+V.G. Kazakov, I.N. Karpenko
+Under the scope are the problems of social network
+services and ways to overcome them. The incoherence
+and inconsistency of terminology using to describe the
+social networks and social networks services is
+discussed. A number of fundamental problems of social
+network services are identified and described. Shown
+that these problems seem to be insurmountable in the
+traditional architecture of building such services.
+Discusses possible ways of organizing the systems that
+implement similar functionality A new method of
+organized the social network services, based on the
+multiagent systems are proposed.

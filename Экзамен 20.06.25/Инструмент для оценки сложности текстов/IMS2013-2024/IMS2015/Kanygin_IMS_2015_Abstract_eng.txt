@@ -1,0 +1,9 @@
+The Context-Oriented Ontology as Foundation
+for Document Flow in Social Management
+G. Kanygin, M. Poltinnikova
+Sociological Institute RAS, St. Petersburg
+The paper offers a document flow model based on involvement of a community of
+actors using context-oriented ontology. Each actor creates and maintains its own local
+ontological domain commensurate with his/her competence and coordinates its constructs with analogous constructs of other ontology's authors.
+The operation of the ontology and its functionality maintenance through a community of actors using a context-oriented ontoeditor is described. The paper demonstrates specifics of the instrumentality of the means used in the context-oriented ontology using an example of collective knowledge building regarding a Sociology institute at the Russian Academy of Sciences. The advantages of this proposed methodology in comparison with the existing methods of organization of document flow
+are discussed.

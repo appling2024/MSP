@@ -1,0 +1,20 @@
+Formation problems and technologies of the
+region virtual environment for regional
+security management problem-solving
+A.V. Masloboev
+The paper considers implementation and application
+problems of the region virtual environment for risksustainable regional development management support.
+Agent-based technologies as a technological framework
+for region virtual environment formation are proposed.
+Such framework provides management process virtualization features of regional security. Agent-based virtualization provides comprehensive informational and
+analytical support, coordination and efficiency enhancement of the regional security subject purposeful
+activity, which are represented as cognitive software
+agents in the unified virtual space. For decision-making
+information support and coordination degree enhancement of the regional security subjects a prototype of
+network-centric multi-agent information and analytical
+environment "Secure Virtual Region" with unified access point based on web-technologies for management
+support of regional security has been developed. Distributed information environment software core and
+components form hierarchical multilayer virtual space
+of the region which is represented as an integration
+framework of problem-oriented situational coalitionbased multi-agent systems used for risk-sustainable
+regional development management support.

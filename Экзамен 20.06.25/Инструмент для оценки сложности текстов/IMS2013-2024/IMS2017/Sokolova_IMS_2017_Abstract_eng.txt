@@ -1,0 +1,15 @@
+Automatic Keyphrase Extraction by applying KEA
+to Russian texts
+E. V. Sokolova, O. A. Mitrofanova
+Saint-Petersburg State University
+KEA (Keyphrase Extraction Algorithm) is one of the well-known algorithms used
+by researchers working in the field of NLP (Natural Language Processing). KEA is
+aimed at effective automatic extraction of keywords and phrases. KEA shows good
+results in processing English texts and proves to be quite useful for linguistic
+purposes. This algorithm can be very helpful for the users who want to get a general
+idea of the material they are interested in. We present modification of KEA designed
+for processing Russian corpora. We linked KEA and necessary linguistic tools for
+processing Russian texts and then carried out experiments on representative Russian
+text corpora and examined reliability of our KEA modification. Therefore, in this
+paper we provide detailed description of KEA’s internal organization, its functional
+peculiarities, experimental settings, results and evaluation procedure.

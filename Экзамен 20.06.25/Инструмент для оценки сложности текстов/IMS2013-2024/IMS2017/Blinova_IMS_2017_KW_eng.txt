@@ -1,0 +1,3 @@
+Russian, webcorpus, RuTenTen, query parameters,
+semantics, secondary meanings of plural, proper names, pejorative
+plural, noun phrase, co-occurrence, quantifiers, sentiment analysis

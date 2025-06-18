@@ -1,0 +1,17 @@
+Assessment of the Comprehensibility of Scientific Russian-language Works
+S. Mikoni
+St. Petersburg Institute for Informatics and Automation of the Russian Academy of Sciences
+The problem of intelligibility of a scientific text is considered on the basis of the ratio of the
+vocabulary of the author and the reader. Words that are incomprehensible to the reader include
+unfamiliar false-orienting, neutral and fashionable terms. Understanding the meaning of a word is
+facilitated by a reference to the image it denotes, either directly or through grammatical connection
+with a word close in meaning. In the absence of a direct reference to an image or a reference to a
+false image, the understanding of a word is realized through the involvement of the definition of
+the concept it denotes. The examples show the need to perform additional mental operations to
+understand the meaning of these words. Words that are based on an image are considered
+understandable. The number of operations required to translate a text into these words characterizes
+the complexity of its understanding. Quantitative estimates of the clarity of the text are proposed.
+The systematicity of the words of the Russian language is noted, which reduces the complexity of
+understanding the text. The conclusion is made about the advisability of computer support for the
+author of the test, which facilitates the selection of words for an understandable expression of
+thought.

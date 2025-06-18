@@ -1,0 +1,9 @@
+Pre-syntactical module of the parser
+SemSin
+K. K. Boyarsky, E. A. Kanevsky
+The principles of work pre-syntactical module of the
+semantic-syntactic analyzer SemSin are described. Using of this module allows to significantly reduce the
+ambiguity of morphological parsing before the beginning of the syntactical stage. Tokenization procedures
+for complex lexical units and phraseological expressions are considered. The paper contains examples of
+removing ambiguity of certain words using only the
+nearest context.

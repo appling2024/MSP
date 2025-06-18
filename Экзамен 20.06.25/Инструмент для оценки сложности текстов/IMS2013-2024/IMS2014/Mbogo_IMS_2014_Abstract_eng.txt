@@ -1,0 +1,9 @@
+Complex Integration of Digital Collections
+into Scientific Information Space
+Irina A. Mbogo, Dmitry E. Prokudin,
+Andrei V. Chugunov
+The article considers the solution of problems of accumulation and integration of scientific electronic collections into information space of scientific researches.
+On the basis of the analysis of the existing standards
+and solutions the choice of methodology and technologies of representation of electronic materials of the scientific conference "Internet and Modern Society" locates. The concept of the project of integration of the
+created electronic collection into the main world and
+domestic information systems and aggregators of scientific information is considered.

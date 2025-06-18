@@ -1,0 +1,6 @@
+Dataset creation for question answering over knowledge bases. 
+First stage: entity linking
+V.O. Korablinov 1,2
+1 ITMO University, 2 JetBrains Research
+Question answering over knowledge bases has been an active area of research over the past years. Regularly emerging new approaches show a steady increase in quality, but this would not be possible without development of datasets that allow training models, evaluating them and setting new challenging tasks. Unfortunately, all existing datasets are available only in English, which limits research in this area to other languages. We want to close this gap by providing a dataset for the Russian language. 
+In this paper we describe an approach to create such dataset using crowdsourcing. One of the key stages of our approach is to identify mentions of entities in the texts of questions and answers and link them to the entities in knowledge base. Our algorithm allows us to build lists of such possible mentions. The algorithm also automatically links extracted text spans to Wikidata entity identifiers. Evaluation shows that we find proper linking in 95% of cases. The resulting lists will later be used to create questions and answers annotations needed for dataset creation.

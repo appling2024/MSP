@@ -1,0 +1,9 @@
+Design Features of Mass Optical Character
+Recognition system of archival documents
+S.V. Smirnov
+The article focuses on the problems of constructing
+systems of mass OCR. An algorithm for correction of
+recognition errors, architecture and component model of
+the system are described.
+Also information about the deployment in the central
+state archives of St. Petersburg is present.

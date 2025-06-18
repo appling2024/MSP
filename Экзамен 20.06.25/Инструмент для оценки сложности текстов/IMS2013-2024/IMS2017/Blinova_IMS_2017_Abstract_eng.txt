@@ -1,0 +1,11 @@
+«Pejorative plural» in Russian: semantics and сo-occurrence patterns
+(web corpus-based study)
+O.V. Blinova
+Saint Petersburg State University
+Russian forms of pejorative plural of the type vsjakie pugachevy-Pl, kirkorovy-Pl
+‘various Pugachevas and Kirkorovs’ are derived from the surnames, and express
+negative opinion about the referents. This paper aims at corpus-based study of
+composition of noun phrases with such forms. The study allows to pick out the stable,
+most frequent lexical and other features, supporting the connotation “limited quantity
+~ large quantity” and the meaning of non-uniqueness of referents of plural forms in
+question.

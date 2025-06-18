@@ -1,0 +1,12 @@
+Are friends in social network Vkontakte
+know each other in real world?
+A.V. Yakushev, A.V. Boukhanovsky
+It becomes popular to use data from Social Networks Sites (SNS) to model processes in real world.
+The main assumption in these researches is that structure of complex network in SNS is similar to the structure of real society, but details of these issues have not
+been studied. This paper studies the question of proportion of links in popular Russian SNS Vkontakte that can
+be explained by the familiarity of users in real world.
+Three probabilistic but strong features used to determine the proportion of links between familiar users
+in SNS. Together features “studied in same school”,
+“studied in same university” and “have a lot of common
+friends in SNS” were able to explain 85% of links in
+SNS.

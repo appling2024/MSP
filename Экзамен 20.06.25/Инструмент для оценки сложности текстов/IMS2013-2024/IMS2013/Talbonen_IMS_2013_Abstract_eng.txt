@@ -1,0 +1,6 @@
+Search in digital collections based on
+textual and graphical information
+A. N. Talbonen, A. A. Rogov
+This article is devoted to the organization in search
+of a collection of digital images representing historical
+value. The paper describes the capabilities of the software specially designed to meet the challenges for providing search these collections on the basis of the content of both textual and graphical information.

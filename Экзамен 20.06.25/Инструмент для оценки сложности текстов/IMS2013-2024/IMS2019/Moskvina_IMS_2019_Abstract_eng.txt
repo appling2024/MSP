@@ -1,0 +1,16 @@
+Development of a Database on the Russian Prepositions Semantics
+A. Moskvina, E. Enikeeva, V. Zakharov
+Saint Petersburg State University
+The paper discusses the development of a database, containing information on Russian
+prepositional phrases. The study is conducted as a part of a project, aimed at the construction of
+quantitative grammar of Russian prepositional phrases. Source data is based on the material from
+several corpora (Araneum Russicum Minus, Russian National Corpus subcorpora) and the result
+of its semantic processing. At this point 4200 cases of prepositional usage of twenty-five
+primitive prepositions are annotated. We created a database based on a sample of this data.
+By structuring and integrating the accumulated material into a database we optimize the process
+of extracting statistical characteristics, as well as information on exercised meanings of a
+preposition in a wider context. We also have the opportunity to compare the statistics of the texts
+of different genres.
+In the paper we examine the peculiarities of the material of prepositional semantics, justify our
+views on structure of such database, give the examples of queries. Preliminary results suggest the
+feasibility of further work.

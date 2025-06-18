@@ -1,0 +1,10 @@
+Information Excange in Education Domain
+Yu. V. Lipuntsov
+The information technology trend gives new opportunities for communication within domain. The progressive method of inter-system interaction in the Education
+is semantic web technology based on data model. The
+common data model in Education domain can help organize the information exchange between educational
+institutions, regulatory bodies and employers' companies. The basis for this is data governance, standardization in data layer. The paper deals with creating the data
+schema, as base for interaction of different categories of
+participants. Text presents the main modules of information exchange in Education domain: the schemes of
+curriculum design management, learning management
+system and model for project-based company.

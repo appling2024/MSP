@@ -1,0 +1,1 @@
+word, meaning, concept, model, property, basis, function, operation, structure, relation, argument

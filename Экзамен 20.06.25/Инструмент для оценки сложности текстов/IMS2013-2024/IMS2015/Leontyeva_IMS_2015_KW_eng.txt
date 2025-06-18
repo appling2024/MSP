@@ -1,0 +1,2 @@
+ontology; linguistic&information model; semantics; textual notions;
+individual knowledge base for a user.

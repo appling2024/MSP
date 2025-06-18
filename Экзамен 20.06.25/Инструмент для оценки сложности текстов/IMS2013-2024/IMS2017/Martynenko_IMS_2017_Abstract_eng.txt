@@ -1,0 +1,7 @@
+On the consistency of ordinal statistics of word frequency lists
+G. Ya. Martynenko
+St. Petersburg State University
+The article discusses the problem of fast convergence of ordinal statistics to limit
+values as the sample size increases. The author comes to the conclusion about the
+practical consistency of these characteristics. This approach allows to compare
+frequency dictionaries of different subjects, genres and volume.

@@ -1,0 +1,15 @@
+A Formal Language Model of the Rhyming Words for Automated Search
+V. N. Boikov 1, M. S. Kariaeva 1, I. A. Pilshchikov 2
+1
+
+Yaroswlvl Demidov State University, 2 Lomonosov Moscow State University, Tallinn
+University
+
+The paper offers a formal classification of rhymes based on the accuracy and richness of rhymes
+defined according to a formal language model of rhyming words.
+The classification suggests a procedure of automated search of rhyming words in a poetic text
+and formulation of the classifying code of the rhyme as a formal attribute in the specification of a
+poetic text.
+Keywords: automated rhyme search, information-analytical system, phonetic word model, verse
+mark up, specification of verse text, thesaurus of poetics, accuracy and richness of rhyme, formal
+language of verse description

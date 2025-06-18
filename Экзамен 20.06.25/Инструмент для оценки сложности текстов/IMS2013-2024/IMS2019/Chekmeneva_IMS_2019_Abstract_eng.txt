@@ -1,0 +1,9 @@
+Metaphor in Musicological Discourse
+A. Chekmeneva
+Saint Petersburg State University
+This study is concerned with metaphor in musicological discourse. The author considers various
+theories regarding metaphor and more closely looks on the theory of conceptual metaphor
+presented by Lakoff and Johnson. The study is conducted in terms of corpus research. By means
+of Sketch Engine author compiles a corpus of texts on musicological themes and extracts
+persistent metaphorical patterns.
+Author extracted 5 conceptual metaphors and listed them by their frequency.

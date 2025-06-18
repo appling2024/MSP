@@ -1,0 +1,6 @@
+The Early XX-century Russian Short Stories Corpora. An Example 
+of Lingvo-statistical analysis
+A.O. Grebennikov, N.M. Marusenko
+St. Petersburg State University
+The research draws on a representative sample form The Corpus of the Russian Short Stories (1900-1930). A frequency word list was made for the sample from the first group of text in the Corpus (100 stories written between 1900 and 1913, one story per author).
+To identify topic words of the stories and the reveal the effect of dramatic events of the period in question on the fiction vocabulary the first 100 most frequent content words in the list are compared with the existing frequency word lists of prominent Russian writers and with the Frequency Dictionary of Russian by Lyashevskaya and Sharov. In addition, the data is set against a representative sample of modern Russian short stories from Russian National Corpus. The conventional measure of relative frequency - instances per million (ipm) - is used to ensure the adequacy of the results. The frequency distribution of content words in the upper zone of the lists is shown to be an indicator of the general short-stories content not only for an individual author, but for the time period as a whole as well as to reflect some actual aspects of public life.

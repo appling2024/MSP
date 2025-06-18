@@ -1,0 +1,12 @@
+Creation of a Russian valency dictionary based on NLTK Czech
+computer valency dictionary Verbalex
+M. Godgildieva, V. Zakharov
+Saint Petersburg State University
+The goal of our project is to create a valency dictionary for Russian language
+using the methods of Verbalex project. The description model that was developed by
+the creators of Verbalex, allows to comprehensively describe both morphosyntactic
+and semantic properties of the verb arguments. At this moment as an experiment we
+have described 8 Russian verbs to see if Verbalex description model matches the
+argument structure of Russian verbs. As a result the model was adapted for Russian
+language. In future we are planning to compile a valency dictionary for Russian verbs
+semiautomatically using the Verbalex methods.

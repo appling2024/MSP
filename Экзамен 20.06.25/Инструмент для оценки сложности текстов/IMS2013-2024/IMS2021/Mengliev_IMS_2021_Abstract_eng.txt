@@ -1,0 +1,11 @@
+Structure and Units of the Uzbek Language Morphoanalyzer
+B.R. Mengliev, Sh.M. Khamraeva
+Tashkent State University of Uzbek Language and Literature named after Alisher Navoi
+The article deals with the issues of creating a morphological analyzer of the Uzbek language,
+including the units that make up the morphological analyzer. To achieve the Uzbek language in
+modern information technology, it is necessary to substantiate the study of such modern issues
+as language corpuses, electronic translators, thesaurus, spelling correctors, the first automatic
+processing tools (linguistic analyzers) and linguistic support based on modern scientific
+principles. The article discusses the above issues and the solution of the issues of creating a
+morphological analyzer of the Uzbek language, including the structure and composition of the
+morphological analyzer of the Uzbek language.

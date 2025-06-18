@@ -1,0 +1,18 @@
+
+Semantic Structure of Russian Prepositional Construction
+I.V. Azarova, V.P. Zakharov, A.D. Moskvina
+Saint Petersburg State University
+In this paper we present a technique for specification of Russian prepositional constructions.
+We bring together a number of primary and secondary prepositions expressing roughly similar
+relations between the main and the subordinate full words. The whole group of prepositional
+constructions demonstrates several implicit variants of the broad sense rubric, which we
+nominate the semantic domain. In the paper we describe 3 such domains: temporal, transitive and
+mediative. For each domain we range appropriate prepositions according corpus statistics, show
+contextual restrictions and subtle nuances of the dominant rubric meaning, which are expressed
+in collocations with particular semantic types of lexemes occupying head and daughter positions
+of prepositional relations. The most ambivalent domain described is mediative. Usually this
+meaning is connected with a notion of an instrument, however, it is complicated by notions of
+material, device, and even an assistant and space transition. The temporal domain is described
+partially as a reference to the time moment, the other temporal relations will be the matter of the
+future research. The transitive domain is a part of the heterogeneous locative relations, which are
+to be the developed later.

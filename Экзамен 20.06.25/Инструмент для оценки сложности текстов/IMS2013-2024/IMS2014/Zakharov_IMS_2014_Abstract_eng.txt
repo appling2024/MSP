@@ -1,0 +1,8 @@
+Extracting Terminological Phrases By
+Different Association Measures
+V.P. Zakharov, M.V. Khokhlova
+The paper presents the results of automatic term extraction from a special text corpus (a collection of papers on computational linguistics) by means of statistical measures (t-score, MI, MI3, min. sensitivity, loglikelihood, logDice, and MI.log_f). The applied method
+includes statistical analysis that enables estimating the
+value of syntagmatic relations between lexemes. The
+results of experiments on the base of Sketch Engine
+system are shown.

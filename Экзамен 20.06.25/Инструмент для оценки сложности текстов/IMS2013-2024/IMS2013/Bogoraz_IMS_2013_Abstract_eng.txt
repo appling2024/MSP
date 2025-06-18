@@ -1,0 +1,7 @@
+Comparative analysis of methodologies for
+assessment of firewalls
+A.G. Bogoraz, O.Y. Peskova
+The article describes the main Russian and foreign
+security assessment techniques in the annex of information systems to the analysis of firewalls. The main steps
+of techniques are described, and the various indicators
+are compared
