@@ -1,0 +1,19 @@
+<w><ana lex='однажды' gr='ADV' sem='t:temp:point'/>Однажды</w> <w><ana lex='старая' gr='A,f,sg,nom' sem='r:qual age:old'/>старая</w> <w><ana lex='мышь' gr='S,f,anim=sg,nom' sem='r:concr t:animal'/>мышь</w> <w><ana lex='найти' gr='V,pf,tran=sg,f,praet,indic,act' sem='t:perc ca:anim d:pref der:v'/>нашла</w> <w><ana lex='ключ' gr='S,m,inan=sg,acc' sem='r:concr t:tool:open t:nat:water'/>ключ</w> <w><ana lex='под' gr='PR'/>под</w> <w><ana lex='лист' gr='S,m,inan=sg,ins' sem='r:concr t:plant:part t:doc'/>листом</w> <w><ana lex='.' gr='PNCT'/>.</w>
+
+<w><ana lex='она' gr='S-PRO=f,sg,nom' sem='r:concr t:hum pc:hum'/>Она</w> <w><ana lex='понять' gr='V,pf,tran=sg,f,praet,indic,act' sem='t:ment ca:hum'/>поняла</w> <w><ana lex='что' gr='CONJ'/>что</w> <w><ana lex='этот' gr='DET=sg,nom,m'/>этот</w> <w><ana lex='ключ' gr='S,m,inan=sg,nom' sem='r:concr t:nat:water t:tool:open'/>ключ</w> <w><ana lex='открывать' gr='V,ipf,tran=inf' sem='t:act ca:hum der:v'/>открывает</w> <w><ana lex='замок' gr='S,m,inan=sg,acc' sem='r:concr t:arch:building t:tool:lock'/>замок</w> <w><ana lex='на' gr='PR'/>на</w> <w><ana lex='путь' gr='S,m,inan=sg,acc' sem='r:abstr t:journey t:road'/>путь</w> <w><ana lex='домой' gr='ADV' sem='t:loc:goal'/>домой</w> <w><ana lex='.' gr='PNCT'/>.</w>
+
+<w><ana lex='рядом' gr='ADV' sem='t:loc:prox'/>Рядом</w> <w><ana lex='лежать' gr='V,ipf,tran=sg,f,praet,indic,med' sem='t:state'/>лежала</w> <w><ana lex='лук' gr='S,m,inan=sg,nom' sem='r:concr t:weapon t:food:plant'/>лук</w> <w><ana lex='и' gr='CONJ'/>и</w> <w><ana lex='лист' gr='S,m,inan=sg,nom' sem='r:concr t:plant:part t:doc'/>лист</w> <w><ana lex='с' gr='PR'/>с</w> <w><ana lex='карта' gr='S,f,inan=sg,ins' sem='r:concr t:doc:map'/>картой</w> <w><ana lex='.' gr='PNCT'/>.</w>
+
+<w><ana lex='мышь' gr='S,f,anim=sg,nom' sem='r:concr t:animal'/>Мышь</w> <w><ana lex='спрятаться' gr='V,pf,intr=sg,f,praet,indic,act' sem='t:perc'/>спряталась</w> <w><ana lex='под' gr='PR'/>под</w> <w><ana lex='лист' gr='S,m,inan=sg,ins' sem='r:concr t:plant:part t:doc'/>лист</w> <w><ana lex='.' gr='PNCT'/>.</w>
+
+<w><ana lex='сова' gr='S,f,anim=sg,nom' sem='r:concr t:animal'/>Сова</w> <w><ana lex='улететь' gr='V,pf,intr=sg,f,praet,indic,act' sem='t:perc'/>улетела</w> <w><ana lex='в' gr='PR'/>в</w> <w><ana lex='лес' gr='S,m,inan=sg,acc' sem='r:concr t:place'/>лес</w> <w><ana lex='.' gr='PNCT'/>.</w>
+
+<w><ana lex='утро' gr='S,n,inan=sg,nom' sem='r:concr t:time:part:day'/>Утром</w> <w><ana lex='мышь' gr='S,f,anim=sg,nom' sem='r:concr t:animal'/>мышь</w> <w><ana lex='выйти' gr='V,pf,intr=sg,f,praet,indic,act' sem='t:perc'/>вышла</w> <w><ana lex='из' gr='PR'/>из</w> <w><ana lex='нора' gr='S,f,inan=sg,gen' sem='r:concr t:place'/>норы</w> <w><ana lex='.' gr='PNCT'/>.</w>
+
+<w><ana lex='она' gr='S-PRO=f,sg,nom' sem='r:concr t:hum pc:hum'/>Она</w> <w><ana lex='смотреть' gr='V,ipf,intr=sg,f,praet,indic,act' sem='t:perc'/>смотрела</w> <w><ana lex='на' gr='PR'/>на</w> <w><ana lex='мышь' gr='S,f,anim=sg,acc' sem='r:concr t:animal'/>мышь</w> <w><ana lex='.' gr='PNCT'/>.</w>
+
+<w><ana lex='ключ' gr='S,m,inan=sg,nom' sem='r:concr t:tool:open'/>Ключ</w> <w><ana lex='лежать' gr='V,ipf,tran=sg,f,praet,indic,med' sem='t:state'/>лежал</w> <w><ana lex='на' gr='PR'/>на</w> <w><ana lex='полка' gr='S,f,inan=sg,loc' sem='r:concr t:furn'/>полке</w> <w><ana lex='.' gr='PNCT'/>.</w>
+
+<w><ana lex='лист' gr='S,m,inan=sg,nom' sem='r:concr t:plant:part t:doc'/>Лист</w> <w><ana lex='шелестеть' gr='V,ipf,intr=sg,m,praet,indic,act' sem='t:state'/>шелестел</w> <w><ana lex='на' gr='PR'/>на</w> <w><ana lex='ветер' gr='S,m,inan=sg,acc' sem='r:concr t:weather'/>ветре</w> <w><ana lex='.' gr='PNCT'/>.</w>
+
+<w><ana lex='сова' gr='S,f,anim=sg,nom' sem='r:concr t:animal'/>Сова</w> <w><ana lex='спать' gr='V,ipf,intr=sg,f,praet,indic,act' sem='t:state'/>спала</w> <w><ana lex='в' gr='PR'/>в</w> <w><ana lex='дупло' gr='S,n,inan=sg,loc' sem='r:concr t:place'/>дупле</w> <w><ana lex='.' gr='PNCT'/>.</w>
