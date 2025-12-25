@@ -1,2 +1,0 @@
-Sentiment lexicon, web interface, crowdsourcing sentiment mark up,
-Russian blogosphere, LiveJournal, test collection, topic modeling

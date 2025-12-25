@@ -1,0 +1,2 @@
+semantic search, text processing, graph representations of ontologies, search
+mechanism, aspect projection

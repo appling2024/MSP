@@ -1,0 +1,18 @@
+Automated synthesis of cognitive model on the base
+of big data analysis and deep learning
+A.N. Raikov
+Institute of Control Sciences RAS, Institute of Philosophy RAS
+The cognitive models are created by team’s participants or experts from different subjects’
+fields. They cannot quickly describe the problem situation with a high level of quality and
+integrity. Cognitive modelling takes into account denotative (formalized, material) and
+significative (cognitive, intellectual) semantics simultaneously. Еhe latter cannot be formalized.
+Cognitive modelling is a unique way to comprehensively reflect the features of the problem that
+has arisen. To ensure the integrity of the cognitive model, taking into account the fullest amount
+of information, as well as speeding up modelling and increasing the adequacy of models, this
+paper address the issue of performing automatic verification of cognitive models on the base of
+analyzing Big Data. It is also considered the possibility to perform automated synthesis of
+cognitive models. In the work the methods of deep learning, category theory and quantum
+semantics ideas are applied, as well as author's convergent approach to management and group
+decision making support. Experimentally the high level of quality of deep learning and accuracy
+of automatic recognition of elements of cognitive models are shown (93%). It can serve as a
+weighty guarantee of fruitfulness of offered solutions.

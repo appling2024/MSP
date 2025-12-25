@@ -1,0 +1,2 @@
+thesaurus, semantic relations, data mining, knowledge acquisition, domain
+engineering, machine learning, word2vec

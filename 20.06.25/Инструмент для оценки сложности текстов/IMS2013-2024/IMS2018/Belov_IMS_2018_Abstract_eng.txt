@@ -1,0 +1,21 @@
+Corpus of Russian Internal Documents and Acts CorRIDA: Goals, Composition
+and Structure
+
+S.A. Belov 1, O.V. Blinova 1, V.B. Gulida 1, V.Yu. Zubov 1, E.Yu. Larionova 2, E.A. Rudneva 2,
+P.S. Tolstikova 3
+1
+
+St. Petersburg State University, 2 European University at St. Petersburg, 3 Institute for
+Linguistic Studies, Russian Academy of Sciences
+
+The existing Russian corpora do not yet provide opportunities for a systematic analysis of the
+language of official documents. There are few such texts in existing corpora. Moreover, there are
+the problems of genre classification and markup of non-fiction (incl. official, legal) texts.
+The paper describes the initial creation stage of the corpus of Russian Internal Documents and
+Acts «CorRIDA». In everyday life, Russian speakers are increasingly faced with the need to read
+and sign various official documents. Usually these are so-called «internal documents», for
+example, Contracts or Informed Consents. However, the language of such documents has not
+been examined with the use of corpus methodology.
+The corpus contains 1.5 million words, includes documents belonging to three socially
+significant domains (health, education, culture) and will allow the description of internal
+documents of various types.

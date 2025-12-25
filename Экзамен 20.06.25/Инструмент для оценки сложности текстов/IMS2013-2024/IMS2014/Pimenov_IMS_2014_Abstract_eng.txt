@@ -1,9 +1,0 @@
-Developing Document Conservation
-Webguide
-E.N. Pimenov, V.A. Soldatov
-The process of document conservation webguide
-development is described. We consider the purpose of
-the guide, its potential users, the work on drawing up
-lists of keywords and thematic groups, guide
-acquisition, query processing used for acquisition, and
-some pragmatic grounds of the guide

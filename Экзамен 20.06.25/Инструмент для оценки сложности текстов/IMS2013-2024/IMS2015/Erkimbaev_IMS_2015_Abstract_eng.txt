@@ -1,9 +1,0 @@
-Ontology of subject area “Nanomaterials ant their applications”
-A. Erkimbaev1, V. Zitserman1, G. Kobzev1, V. Serebtjakov2, K. Teimurazov2.Joint Institute for High Temperatures of RAS,Dorodnicyn Computing Centre of RAS
-It is proposed to use the model “Uniform Description System for nanomaterials”,
-prepared by international expert group for development of new ontology. Its main
-advantages – universality and the potentialities of the expansion when new object or
-concepts are emerging. We point the way to build the ontology based on the UDS
-model by creating the hierarchy of classes and properties. It is proposed the widening
-the scope of model with the aid of integration with material science ontpologies,
-including the Russian ontology on nanocomposites.

@@ -1,8 +1,0 @@
-Development and implementation of rule generation methods 
-for automatic grammatical error correction
-P. Bakhvalov
-ITMO University
-The task of automatic grammatical error correction (GEC) is still relevant. The amount of written text increases every year, as does the number of people starting to learn new languages, and it is common for all of us, as humans, to make mistakes.
-There are two main approaches to solve this problem: an approach based on machine learning and a rule-based approach. Machine learning shows better results and does not require the involvement of professional linguists. The rule-based approach allows showing the user the description of the error based on language rule and requires significantly less computing resources. These approaches can be combined for quality increasing.
-This paper presents a method of automatic obtaining of rules from an annotated dataset, so existing GEC-systems can be improved by generated rules after adding a description.
-The Transformation-Based Learning (TBL) approach was taken as a basis, which was modified to use on data with a large number of features. As a result, 1238 rules for 36 categories of errors were generated. After that, the existing LanguageTool GEC-system was supplemented with the generated rules and showed significantly quality improvement.

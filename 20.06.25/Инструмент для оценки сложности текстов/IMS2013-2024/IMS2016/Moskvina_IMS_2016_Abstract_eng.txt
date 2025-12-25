@@ -1,0 +1,12 @@
+Development of the Core for Syntactic Parser for Russian
+based on NLTK libraries
+A. Moskvina, D. Orlova, P. Panicheva, O. Mitrofanova
+Saint Petersburg State University
+Our project is aimed at the development of the syntactic parser for Russian based
+on NLTK toolkit for Python. NLTK provides linguistic environment for building
+formal grammars. We describe a feature-based grammar which allows to analyze the
+most important syntactic groups within clauses occurring in Russian texts. Our parser
+operates with rules which include morphological information from the input
+sentences. The rules are based on the tagset accepted in PyMorphy2 morphological
+tagger. In the nearest future we plan to enrich our parser so that it could process any
+well-formed Russian sentences.

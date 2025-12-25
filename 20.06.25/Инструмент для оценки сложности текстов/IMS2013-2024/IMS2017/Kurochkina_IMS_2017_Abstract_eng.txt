@@ -1,0 +1,16 @@
+Evaluation of automatic collocation extractions methods
+Y.N.Kurochkina
+
+Saint Petersburg State University
+
+This paper is devoted to the evaluation of the measures of association
+used to identify collocations. The goal of the work is to find out how
+effective and relevant these measures of the association are, and to show
+this with the example of popular measures, namely t-score, MI3, log
+likelihood and logDice. The paper deals with the theoretical issues of
+collocation extraction, the classification of stable word combinations, and
+describes the measures of associations. Further it is described the
+experiment on collocation detection from the Araneum Russicum
+Russicum Maius corpus with the volume of 1.2 billion tokens in the
+NoSketchEngine system, the evaluation of the work of the association
+measures is presented.

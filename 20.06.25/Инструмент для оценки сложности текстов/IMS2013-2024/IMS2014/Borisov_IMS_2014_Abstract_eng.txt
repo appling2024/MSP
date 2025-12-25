@@ -1,0 +1,20 @@
+Internet and Multimedia Technologies
+in the Modern Theater
+N.V. Borisov, D.I. Burlov, A.A. Smolin,
+D.A. Stolyarov, P.P. Tscherbakov
+This article presents the experience of
+interdisciplinary work of experts in the field of
+information and multimedia technologies from the
+ITMO University, together with specialists of the New
+Stage of Aleksandrinsky Theatre. As a result of this
+collaboration a number of theatrical projects has been
+implemented using multimedia and internet technology,
+a prototype of multi-purpose hardware and software
+system has been developed and outlined a series of
+long-term objectives for the implementation of the use
+of Internet and multimedia technologies in theatrical
+performances.
+This work was partially financially supported by
+Government of the Russian Federation, Grant 074-U01
+and Saint-Petersburg State University development
+program

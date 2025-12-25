@@ -1,0 +1,9 @@
+Digital full-text library for support of
+analytical & research working
+S. Lyapin, A. Kukovyakin
+The report discusses the use of the services of multifunctional digital full-text library, created on the basis
+of the information system of the T-Libra 6.6.x («Constanta» Ltd., Arkhangelsk, Russia), to support analytical
+and research activities. Examples of such use are given:
+for support of the management activity in the sphere of
+culture (analytics of reports, thematic analysis of information materials); activities of the Museum (the information-analytical support of exhibitions and expositions); humanitarian researches in the sphere of philosophy (explication of semantic contexts of Russian
+philosophy)

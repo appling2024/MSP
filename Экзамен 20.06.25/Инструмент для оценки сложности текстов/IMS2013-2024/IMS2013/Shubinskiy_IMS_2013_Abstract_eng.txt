@@ -1,9 +1,0 @@
-Safer Internet forchildren
-M. I. Shubinskiy
-In this paper we consider the problem of information security students at work on the Internet. The basic
-guidelines for ensuring security and offered a training
-course that can be used by the school for student learning.
-The article discussed in detail the curriculum of the
-course. We have identified the personal, meta-subject
-and subject learning outcomes to be achieved during the
-course.

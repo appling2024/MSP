@@ -1,0 +1,2 @@
+text processing, fact extraction, ontology, taxonomy of relationships, definition of
+concepts

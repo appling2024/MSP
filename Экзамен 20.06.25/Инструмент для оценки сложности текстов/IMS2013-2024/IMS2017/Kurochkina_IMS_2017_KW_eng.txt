@@ -1,2 +1,0 @@
-Corpora, extraction of collocations, measures of
-association

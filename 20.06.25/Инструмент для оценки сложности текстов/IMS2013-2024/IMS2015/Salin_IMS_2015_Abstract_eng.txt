@@ -1,0 +1,18 @@
+Semantic Segmentation of Hypertext Based on Discrete
+Mathematical Models
+V. Salin, S. Papashev
+The Yuri Gagarin State Technical University of Saratov
+The issue of different modern methods for effective information search and data
+extraction is semantic layer construction up to hypertext information massive. We
+consider some approaches to semantic enhancing for hypertext based on different
+mathematical models. We see the basis for adding semantics to hypertext in clustering
+of web documents on various attributes, including its semantic similarity. In this
+paper we present the method for constructing semantic clusters of hypertext website
+structure based on web-analytic results of user visits and transitions across hyperlinks.
+We apply documents clustering by user’s routes to graph model of the hypertext
+structure. The method of semantic clusterization, proposed in the paper, is based on
+the algorithm BorderFlow for weighted graphs. To automate graph model
+construction for hypertext, and to apply to it developed methods the special software
+was developed. The research results may be used for semantic analysis of webdocuments. For web-design and developing purpose it may be applied to decide
+effectively the adaptive navigating task, and also help during web site reengineering
+and logic structure optimization process.

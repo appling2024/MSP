@@ -1,0 +1,8 @@
+IMPLEMENTATION OF THE ALGORITHM FOR AUTOMATIC CORRECTION OF
+TYPOS
+V.V. Sampetova, V.O. Lukanina, A.D. Moskvina, O.А. Mitrofanova
+Saint Petersburg State University
+The report presents the experience of implementing the algorithm for automatic correction of typos based on the
+Levenstein distance and the n-gram model. In this paper, it was suggested that typos — is incorrect input of words
+from any electronic device having a computer keyboard, so the algorithm takes into account the distance between
+the keys of the standard keyboard of the Russian language.

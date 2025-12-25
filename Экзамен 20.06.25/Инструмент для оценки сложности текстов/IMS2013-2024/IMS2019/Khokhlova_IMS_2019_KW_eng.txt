@@ -1,2 +1,0 @@
-verbal collocations, text corpus, statistics, dictionaries, association measures,
-evaluation

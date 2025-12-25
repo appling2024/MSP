@@ -1,2 +1,0 @@
-lexical statistics, thesaurus, linguistic ontology, WordNet, dictionary
-integration.

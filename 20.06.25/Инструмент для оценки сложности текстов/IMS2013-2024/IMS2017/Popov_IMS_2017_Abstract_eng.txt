@@ -1,0 +1,6 @@
+“BLACK SWANS”: ANOMALOUS EVENT DETECTION
+The paper is a research in progress on identification and extraction of so-called “black swans” — infrequent, yet
+important aspects — in text corpora. Our method has been developed within a commercial project for customer
+experience analysis. In our study we rely on syntax-based approach and propose a novel metric of syntactic relation
+anomality estimation. This metric is used for calculating the anomality of the whole document. For evaluation we
+used an expert-annotated corpus. The results proved our approach effective for the dataset in question.

@@ -1,2 +1,0 @@
-question-answer systems, ontologies, automatic text processing, Drools,
-SPARQL, Apache Jena.

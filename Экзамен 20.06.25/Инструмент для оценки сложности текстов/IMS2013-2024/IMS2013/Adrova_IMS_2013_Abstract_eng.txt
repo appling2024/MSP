@@ -1,8 +1,0 @@
-Research of hashing algorithms which are
-used for authentication of Web-applications
-L.S. Adrova, P.N. Polezhaev
-This article is devoted to the research of hashing algorithms which are used for authentication of Webapplications. Execution time analysis of algorithms has
-shown that the best option is SCRYPT algorithm with
-parameters (27, 28) and (28, 27). The optimal number
-of external rounds was chosen for GOST and SHA512
-algorithms

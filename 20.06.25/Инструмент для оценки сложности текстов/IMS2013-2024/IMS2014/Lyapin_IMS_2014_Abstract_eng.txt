@@ -1,0 +1,12 @@
+Support for Humanities Research by Means
+of Full-text Search in a Distributed
+Environment (project «Humanitariana»)
+S. Lyapin, A. Kukovyakin, I. Tolstikova
+Justifies the use of advanced full-text search
+(including mode of the distributed information
+environment) to support humanitarian studies. In this
+connection describes the project «Humanitariana» to
+create a virtual information resource center to retrieve
+contextual knowledge in the Humanities, created on the
+basis of the University ITMO (St. Petersburg) with
+partners.

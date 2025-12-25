@@ -1,0 +1,4 @@
+Transformers are neural network architectures based on self-attention mechanisms.
+BERT is a bidirectional encoder transformer trained using masked language modeling.
+RAG combines information retrieval with text generation models.
+Sentence-transformers produce dense vector representations of sentences.

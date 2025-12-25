@@ -1,0 +1,9 @@
+Cloud systems: strategy of development and
+security
+Olga Y. Peskova
+The paper presents the classification of cloud services, service models and deployment models, The set
+of requirements to cloud services and results of technological forecasts on curve Hype Cycle for cloud computing are given, the most interesting and critical from
+the point of view of cloud security technology. The
+main problems of safety in cloud services are considered. The classification of information security issues of
+cloud technologies by three categories is offered: technological and organizational problems, legal problems,
+man-made problems.

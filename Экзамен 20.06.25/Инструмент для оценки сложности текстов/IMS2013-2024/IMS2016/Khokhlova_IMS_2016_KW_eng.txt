@@ -1,2 +1,0 @@
-text corpora, web corpora, Russian National corpus, RuTenTen, Russian
-Web corpus, big data.

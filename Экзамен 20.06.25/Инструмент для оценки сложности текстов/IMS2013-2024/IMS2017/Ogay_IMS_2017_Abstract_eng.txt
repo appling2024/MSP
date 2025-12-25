@@ -1,9 +1,0 @@
-REPORT’S TITLE IN ENGLISH
-A.A. Ogai
-Saint Petersburg State University
-Saint Petersburg
-This article shall concern dictionaries of scientific works devoted to pre-Cambrian acritarchs and the potential
-of three-dimensional visualisation usage for gleaning visual information from them. Multiple variants of said
-visualisation shall be viewed, depending on purpose, as well as the data that can be gained from it. Thus we shall see
-where said visualisation is useful for frequency dictionaries, both insofar as it concerns the scientific works
-researched within this article, as well as for works pertaining to other branches of science.

@@ -1,7 +1,0 @@
-Analysis of Science Websites Structure
-on the Example of the FEB RAS
-Internet Recourses
-K.A. Platonov, V.V. Naumova
-The authors develop new approaches for describing
-and analyzing the science websites structures. The approach was tested by multivariate analysis of the FEB
-RAS institutes’ web-sites.

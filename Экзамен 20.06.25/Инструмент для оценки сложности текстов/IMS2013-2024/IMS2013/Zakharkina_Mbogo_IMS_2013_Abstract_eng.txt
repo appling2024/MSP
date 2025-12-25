@@ -1,6 +1,0 @@
-Web Laboratory for Creative Groupes:
-Principals and Realisation
-V.V. Zakharkina, I.A. Mbogo
-We propose the structural and functional idea of
-web-resource for creative art-groups whose activity is
-closely concerned with technologies. Also corresponding software platform considers.

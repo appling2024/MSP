@@ -1,0 +1,16 @@
+Distinctive metaphorical phrases denoting colors (corpus analysis)
+A.V. Chekmeneva
+Saint Petersburg State University
+This article is concerned with the issue of the use of Russian metaphorical phrases that denote
+colors.
+The author considered various theories, namely the color theory by Goethe, Basic color terms
+by Berlin and Kay, the theory by Belov. By combining different theories together there were
+selected 12 basic colors. The correlation between abstract nouns and adjectives that denote colors
+is being studied. There is an attempt to define the connotation of every basic color. All colors are
+divided into colors with positive, negative and neutral connotation.
+The author also extracts synesthetic metaphors from all found metaphors.
+The study is conducted in terms of corpus research. All the examples are provided due to
+National Russian Corpus.
+In the further work the study will be concerned with synesthetic metaphors of sound and
+visual perception, with the classification by Max Luscher. The further work will be accompanied
+by setting up a unique corpora with the help of Sketch Engine tools.

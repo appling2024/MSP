@@ -1,2 +1,0 @@
-тезаурус, семантические отношения, data mining, knowledge
-acquisition, domain engineering, machine learning, word2vec

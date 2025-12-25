@@ -1,2 +1,0 @@
-syntax parsing, phrase structure, dependency structure, weighted graph,
-lexical collocation, CYK-algorithm.

@@ -1,7 +1,0 @@
-Creative Media Space: Portal for the New
-Stage of Alexandrinsky Theatre
-N.V. Borisov, V.V. Zakharkina, I.A. Mbogo
-Portal was developed as a creative environment to
-support the efforts of the theater professionals, those
-who use media and internet technologies for their projects. One of the major challenges was to provide the
-option of multi-camera live video streaming

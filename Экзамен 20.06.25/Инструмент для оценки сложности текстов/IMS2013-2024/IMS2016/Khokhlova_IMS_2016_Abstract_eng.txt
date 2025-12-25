@@ -1,8 +1,0 @@
-A survey of Large Russian Corpora
-M. Khokhlova
-St. Petersburg State University
-Our paper deals with large corpora rapidly appearing within the last decade. These
-corpora are created automatically and differ from traditionally made text collections
-both in their volume and content. The paper gives a survey of large Russian corpora,
-among them RuTenTen, General Internet-Corpus of Russian, project Aranea and also
-discusses the issues of building such corpora.

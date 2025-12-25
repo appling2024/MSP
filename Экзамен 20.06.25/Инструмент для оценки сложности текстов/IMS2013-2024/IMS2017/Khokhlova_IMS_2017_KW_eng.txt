@@ -1,2 +1,0 @@
-Statistical tools, measures of association, bigrams, MI, LL,
-MI3, minimum sensitivity, t-score.

@@ -1,2 +1,0 @@
-Sentence analysis, collocations, morphological analysis,
-parts of speech, lemmas, semantic classes.

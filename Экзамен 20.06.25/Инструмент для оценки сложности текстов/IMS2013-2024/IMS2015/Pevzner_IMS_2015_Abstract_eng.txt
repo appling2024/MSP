@@ -1,7 +1,0 @@
-Additional functions of news web sites
-B. Pevzner
-One of the main functions of a news agency is to create news information traffic.
-Traditionally, a reader needs to view all the messages entirely. We know, that news
-web sites are visited very frequently, but are used quite ineffectively economically.
-News traffic is generally polycontent, and the Internet advertising is tied to certain
-content. The algorithms presented below resolve this conflict.

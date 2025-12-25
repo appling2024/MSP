@@ -1,0 +1,12 @@
+ontology;
+information model.
+
+nanomaterials;
+
+nano-object;
+
+hierarchy
+
+of
+
+classes;

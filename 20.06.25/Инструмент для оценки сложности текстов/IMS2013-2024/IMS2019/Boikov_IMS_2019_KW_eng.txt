@@ -1,0 +1,2 @@
+verse, verse segmentation, syllabic volume of a verse segment, inter-ictic interval,
+meter-generating verse period, verse meter, verse meter regulatives

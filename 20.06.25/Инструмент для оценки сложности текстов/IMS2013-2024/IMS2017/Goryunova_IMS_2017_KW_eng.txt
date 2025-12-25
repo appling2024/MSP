@@ -1,0 +1,2 @@
+Оntologies, subject areas, modeling,, classes, attributes, queries, dictionaries
+Scientific Degree, Position, Organization – Country.
